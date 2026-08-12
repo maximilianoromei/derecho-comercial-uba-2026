@@ -1,0 +1,20 @@
+---
+title: "Bibliografía"
+---
+
+## Bibliografía general
+
+La bibliografía se organizará por unidades y por clase.
+
+### Materiales de trabajo
+
+- Código Civil y Comercial de la Nación.
+- Ley General de Sociedades 19.550.
+- Ley de Concursos y Quiebras 24.522.
+- Legislación comercial especial correspondiente a cada unidad.
+- Jurisprudencia seleccionada.
+- Doctrina indicada durante la cursada.
+
+::: {.callout-note}
+Esta sección se irá ampliando con enlaces y referencias específicas a medida que se desarrollen los temas.
+:::

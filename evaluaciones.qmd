@@ -1,0 +1,20 @@
+---
+title: "Evaluaciones"
+---
+
+## Régimen de evaluación
+
+La cursada tendrá **tres parciales**.
+
+Las fechas serán publicadas en el cronograma definitivo procurando que las instancias principales de evaluación no coincidan con el período de clases virtuales comprendido entre el **20/09 y el 18/10**.
+
+## Instancias previstas
+
+1. **Primer parcial**
+2. **Segundo parcial**
+3. **Tercer parcial**
+4. **Recuperatorio general**
+
+::: {.callout-note}
+Las modalidades, contenidos alcanzados y criterios de aprobación se comunicarán oportunamente.
+:::

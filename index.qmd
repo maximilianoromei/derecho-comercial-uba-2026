@@ -1,0 +1,102 @@
+---
+title: "Elementos de Derecho Comercial"
+subtitle: "Segundo cuatrimestre 2026 · Facultad de Derecho · UBA · Cátedra Favier Dubois"
+---
+
+::: {.hero}
+
+# Elementos de Derecho Comercial
+
+**Facultad de Derecho · Universidad de Buenos Aires**  
+**Cátedra Favier Dubois · Prof. Adjunto: Maximiliano Lucas Romei**  
+**Cursada: martes, miércoles y viernes · 12 de agosto al 5 de diciembre de 2026**
+
+<div class="hero-subtitle">
+Material de clases, jurisprudencia, actividades, bibliografía y evaluaciones.
+</div>
+
+:::
+
+::: {.notice}
+
+### Modalidad durante el período 20/09–18/10
+
+Las clases **continúan normalmente en modalidad virtual** durante ese período.  
+El cronograma general y las fechas de evaluación se publicarán en la sección correspondiente.
+
+:::
+
+## Acceso rápido
+
+::: {.card-grid}
+
+::: {.card}
+<span class="badge">CURSO</span>
+
+### 👋 Bienvenida
+
+Modalidad, objetivos, dinámica de trabajo y pautas generales.
+
+[Ingresar](bienvenida.qmd)
+:::
+
+::: {.card}
+<span class="badge">PLANIFICACIÓN</span>
+
+### 📅 Cronograma
+
+Fechas de clase, temas, modalidad y evaluaciones.
+
+[Ver cronograma](cronograma.qmd)
+:::
+
+::: {.card}
+<span class="badge">EVALUACIÓN</span>
+
+### 📝 Evaluaciones
+
+Información sobre los tres parciales, recuperatorios y actividades evaluadas.
+
+[Ver evaluaciones](evaluaciones.qmd)
+:::
+
+::: {.card}
+<span class="badge">LECTURAS</span>
+
+### 📚 Bibliografía
+
+Normativa, doctrina, jurisprudencia y materiales complementarios.
+
+[Ver bibliografía](bibliografia.qmd)
+:::
+
+:::
+
+## Material de clases
+
+### Clase 1 · Presentación y Derecho Comercial
+
+<ul class="material-list">
+  <li>🎓 <a href="clases/clase01.html" target="_blank">Presentación de la Clase 1</a></li>
+  <li>📄 <a href="clases/clase01.pdf" target="_blank">Descargar presentación en PDF</a></li>
+</ul>
+
+::: {.callout-note}
+## Cómo se publicará el material
+
+Cada clase podrá incluir:
+
+- 🎓 presentación navegable;
+- 📄 versión PDF;
+- ⚖️ jurisprudencia;
+- 🧩 casos y actividades;
+- 📚 lecturas complementarias.
+
+Los enlaces se irán incorporando a esta página a medida que avance la cursada.
+:::
+
+## Enfoque
+
+**Ley, doctrina, jurisprudencia y casos prácticos.**
+
+El objetivo del curso es comprender las instituciones centrales del Derecho Comercial, desarrollar criterio jurídico y trabajar sobre problemas concretos mediante el análisis normativo, doctrinario y jurisprudencial.

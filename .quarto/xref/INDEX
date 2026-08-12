@@ -1,0 +1,23 @@
+{
+  "bibliografia.qmd": {
+    "bibliografia.html": "4360ebbb"
+  },
+  "bienvenida.qmd": {
+    "bienvenida.html": "4516b96d"
+  },
+  "clases/clase01.qmd": {
+    "clase01.html": "8294bea9"
+  },
+  "cronograma.qmd": {
+    "cronograma.html": "69e0321e"
+  },
+  "evaluaciones.qmd": {
+    "evaluaciones.html": "b7ee6fb2"
+  },
+  "index.qmd": {
+    "index.html": "919501da"
+  },
+  "clases/clase01-presentacion.qmd": {
+    "clase01-presentacion.html": "bacc147d"
+  }
+}

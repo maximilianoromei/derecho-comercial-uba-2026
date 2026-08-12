@@ -1,0 +1,27 @@
+---
+title: "Clase 1"
+subtitle: "Presentación del curso · Introducción al Derecho Comercial"
+format:
+  revealjs:
+    theme: simple
+    css: ../styles.css
+    slide-number: true
+    scrollable: true
+    hash: true
+---
+
+# Elementos de Derecho Comercial
+
+## Presentación del curso
+
+- Organización de la cursada
+- Modalidad de trabajo
+- Materiales
+- Evaluaciones
+- Objetivos
+
+# Derecho Comercial
+
+## Punto de partida
+
+Esta presentación queda como archivo modelo para reemplazar con el contenido definitivo de la Clase 1.

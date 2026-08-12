@@ -1,0 +1,27 @@
+---
+title: "Cronograma"
+---
+
+::: {.callout-important}
+El cronograma se encuentra **en elaboración** y podrá sufrir ajustes durante la cursada.
+:::
+
+## Datos generales
+
+- **Inicio:** 12/08/2026
+- **Finalización:** 05/12/2026
+- **Días:** martes, miércoles y viernes
+- **20/09 al 18/10:** clases virtuales
+- **Evaluaciones:** tres parciales y recuperatorio general
+
+## Cronograma tentativo
+
+| Período | Modalidad | Contenidos / actividad |
+|---|---|---|
+| 12/08–18/09 | Presencial | Primer bloque de contenidos |
+| 20/09–18/10 | Virtual | Continuidad de contenidos |
+| Desde 20/10 | Presencial | Segundo y tercer bloque |
+| Noviembre | Presencial | Evaluaciones, integración y cierre |
+| Primera semana de diciembre | Presencial | Cierre de cursada |
+
+Las fechas exactas de los **tres parciales** se informarán una vez consolidado el cronograma definitivo.

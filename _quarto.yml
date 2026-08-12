@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Elementos de Derecho Comercial"
+  navbar:
+    left:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Bienvenida"
+        href: bienvenida.qmd
+      - text: "Cronograma"
+        href: cronograma.qmd
+      - text: "Evaluaciones"
+        href: evaluaciones.qmd
+      - text: "Bibliografía"
+        href: bibliografia.qmd
+      - text: "Clases"
+        menu:
+          - text: "Clase 1"
+            href: clases/clase01.qmd
+
+  page-footer:
+    left: "Elementos de Derecho Comercial · Cátedra Favier Dubois"
+    right: "Segundo cuatrimestre 2026"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    lang: es
+    link-external-newwindow: true

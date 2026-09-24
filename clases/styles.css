@@ -1,0 +1,463 @@
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.hero {
+  padding: 2.2rem;
+  border-radius: 20px;
+  background: linear-gradient(135deg, #0b3d91, #1f2937);
+  color: white;
+  margin-bottom: 1.5rem;
+}
+
+.hero h1,
+.hero h2,
+.hero h3,
+.hero p {
+  color: white;
+}
+
+.hero h1 {
+  margin-bottom: .4rem;
+}
+
+.hero-subtitle {
+  font-size: 1.08rem;
+  opacity: .94;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2rem;
+}
+
+.card {
+  border: 1px solid #d8dee9;
+  border-radius: 14px;
+  padding: 1.1rem;
+  background: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, .05);
+}
+
+.card h3 {
+  margin-top: 0;
+}
+
+.card p:last-child {
+  margin-bottom: 0;
+}
+
+.badge {
+  display: inline-block;
+  padding: .2rem .55rem;
+  border-radius: 999px;
+  font-size: .8rem;
+  background: #eef2ff;
+  color: #0b3d91;
+  font-weight: 700;
+  margin-bottom: .45rem;
+}
+
+.material-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.material-list li {
+  margin: .45rem 0;
+}
+
+.notice {
+  border-left: 5px solid #0b3d91;
+  background: #f5f8ff;
+  padding: 1rem 1.2rem;
+  border-radius: 8px;
+  margin: 1rem 0 1.5rem;
+}
+
+.muted {
+  color: #606a78;
+}
+
+.reveal section {
+  text-align: left;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3 {
+  color: #0b3d91;
+}
+
+.reveal table {
+  font-size: .72em;
+}
+
+.reveal p,
+.reveal li {
+  line-height: 1.25;
+}
+
+.small {
+  font-size: .78em;
+}
+/* =========================================================
+   COMPONENTES PARA PRESENTACIONES DOCENTES
+   Agregar debajo del CSS base
+   ========================================================= */
+
+
+/* ---------- Tamaño general de Reveal ---------- */
+
+.reveal {
+  font-size: 36px;
+}
+
+.reveal .slides section {
+  padding: 20px 35px;
+  box-sizing: border-box;
+}
+
+
+/* ---------- Títulos de diapositiva ---------- */
+
+.reveal h2 {
+  font-size: 1.55em;
+  font-weight: 750;
+  margin-bottom: .65em;
+  padding-bottom: .22em;
+  border-bottom: 3px solid #e5eaf2;
+}
+
+.reveal h3 {
+  font-size: 1.12em;
+  font-weight: 700;
+}
+
+
+/* ---------- Texto destacado ---------- */
+
+.destacado {
+  color: #0b3d91;
+  font-weight: 700;
+}
+
+.grande {
+  font-size: 1.25em;
+  font-weight: 650;
+}
+
+.muy-grande {
+  font-size: 1.55em;
+  font-weight: 750;
+}
+
+.centrado {
+  text-align: center;
+}
+
+
+/* ---------- Caja conceptual / definición ---------- */
+
+.concepto {
+  background: #f5f8ff;
+  border-left: 6px solid #0b3d91;
+  border-radius: 10px;
+  padding: .8rem 1.1rem;
+  margin: .8rem 0;
+}
+
+.concepto strong {
+  color: #0b3d91;
+}
+
+
+/* ---------- Artículos legales ---------- */
+
+.articulo {
+  background: #f8fafc;
+  border: 1px solid #d8dee9;
+  border-left: 6px solid #0b3d91;
+  border-radius: 10px;
+  padding: .8rem 1.1rem;
+  margin: .8rem 0;
+  font-size: .88em;
+}
+
+.articulo-titulo {
+  color: #0b3d91;
+  font-weight: 750;
+  margin-bottom: .35rem;
+}
+
+
+/* ---------- Ejemplos ---------- */
+
+.ejemplo {
+  background: #f0fdf4;
+  border-left: 6px solid #15803d;
+  border-radius: 10px;
+  padding: .8rem 1.1rem;
+  margin: .8rem 0;
+}
+
+.ejemplo::before {
+  content: "Ejemplo";
+  display: block;
+  color: #166534;
+  font-weight: 750;
+  margin-bottom: .3rem;
+}
+
+
+/* ---------- Casos prácticos ---------- */
+
+.caso {
+  background: #fff7ed;
+  border-left: 6px solid #ea580c;
+  border-radius: 10px;
+  padding: .9rem 1.2rem;
+  margin: .8rem 0;
+}
+
+.caso::before {
+  content: "Caso";
+  display: block;
+  color: #c2410c;
+  font-weight: 750;
+  margin-bottom: .35rem;
+}
+
+
+/* ---------- Preguntas para alumnos ---------- */
+
+.pregunta {
+  background: #faf5ff;
+  border: 2px solid #7e22ce;
+  border-radius: 14px;
+  padding: .9rem 1.2rem;
+  margin: 1rem 0;
+}
+
+.pregunta::before {
+  content: "Para pensar";
+  display: block;
+  color: #7e22ce;
+  font-weight: 750;
+  font-size: .82em;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  margin-bottom: .35rem;
+}
+
+
+/* ---------- Advertencias / errores frecuentes ---------- */
+
+.alerta {
+  background: #fff1f2;
+  border-left: 6px solid #be123c;
+  border-radius: 10px;
+  padding: .8rem 1.1rem;
+  margin: .8rem 0;
+}
+
+.alerta::before {
+  content: "Atención";
+  display: block;
+  color: #be123c;
+  font-weight: 750;
+  margin-bottom: .3rem;
+}
+
+
+/* ---------- Conclusiones ---------- */
+
+.conclusion {
+  background: #eef2ff;
+  border: 2px solid #0b3d91;
+  border-radius: 14px;
+  padding: 1rem 1.25rem;
+  margin: 1rem 0;
+}
+
+.conclusion::before {
+  content: "Idea clave";
+  display: block;
+  color: #0b3d91;
+  font-weight: 800;
+  margin-bottom: .35rem;
+}
+
+
+/* ---------- Comparación en dos columnas ---------- */
+
+.dos-columnas {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.2rem;
+  align-items: start;
+}
+
+.columna {
+  border: 1px solid #d8dee9;
+  border-radius: 12px;
+  padding: .9rem 1rem;
+  background: #fff;
+}
+
+.columna h3 {
+  margin-top: 0;
+}
+
+
+/* ---------- Secuencias jurídicas ---------- */
+
+.secuencia {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .5rem;
+  margin: 1.2rem 0;
+  flex-wrap: wrap;
+}
+
+.paso {
+  background: #0b3d91;
+  color: white;
+  padding: .55rem .85rem;
+  border-radius: 10px;
+  font-weight: 700;
+}
+
+.flecha {
+  color: #606a78;
+  font-size: 1.3em;
+  font-weight: 700;
+}
+
+
+/* ---------- Tablas más limpias ---------- */
+
+.reveal table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: .72em;
+}
+
+.reveal table th {
+  background: #0b3d91;
+  color: white;
+  font-weight: 700;
+  padding: .5rem;
+}
+
+.reveal table td {
+  padding: .45rem .55rem;
+  border-bottom: 1px solid #d8dee9;
+}
+
+.reveal table tr:nth-child(even) {
+  background: #f8fafc;
+}
+
+
+/* ---------- Citas y jurisprudencia ---------- */
+
+.jurisprudencia {
+  border-left: 5px solid #475569;
+  background: #f8fafc;
+  padding: .8rem 1.1rem;
+  border-radius: 8px;
+  margin: .8rem 0;
+  font-size: .86em;
+}
+
+.jurisprudencia strong {
+  color: #334155;
+}
+
+
+/* ---------- Texto normativo largo ---------- */
+
+.norma {
+  font-size: .76em;
+  line-height: 1.3;
+  background: #f8fafc;
+  padding: .75rem 1rem;
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+}
+
+
+/* ---------- Fuente al pie ---------- */
+
+.fuente {
+  font-size: .55em;
+  color: #64748b;
+  margin-top: .8rem;
+}
+
+
+/* ---------- Utilidades de tamaño ---------- */
+
+.xsmall {
+  font-size: .62em;
+}
+
+.small {
+  font-size: .78em;
+}
+
+.medium {
+  font-size: .9em;
+}
+
+
+/* ---------- Diapositiva divisoria ---------- */
+
+.seccion {
+  text-align: center !important;
+}
+
+.seccion h2 {
+  font-size: 2em;
+  border-bottom: none;
+  margin-top: 2.5rem;
+}
+
+.seccion p {
+  font-size: 1.1em;
+  color: #606a78;
+}
+
+
+/* ---------- Evitar imágenes desproporcionadas ---------- */
+
+.reveal img {
+  max-height: 620px;
+  object-fit: contain;
+}
+
+
+/* ---------- Mejor impresión / PDF ---------- */
+
+@media print {
+
+  .reveal .slides section {
+    padding: 20px;
+  }
+
+  .card,
+  .concepto,
+  .ejemplo,
+  .caso,
+  .pregunta,
+  .articulo,
+  .conclusion,
+  .alerta {
+    box-shadow: none;
+    break-inside: avoid;
+  }
+}

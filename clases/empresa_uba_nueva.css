@@ -1,0 +1,175 @@
+
+/* CSS deliberadamente conservador:
+   no modifica .reveal .slides, section, position ni display del motor Reveal. */
+
+:root {
+  --fondo: #0b1017;
+  --panel: #141b25;
+  --borde: #2a3545;
+  --texto: #eef2f6;
+  --muted: #a4afbe;
+  --oro: #f0ad32;
+  --celeste: #55c4e8;
+  --magenta: #e76f97;
+  --verde: #59c98b;
+}
+
+.reveal {
+  background: var(--fondo);
+  color: var(--texto);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3 {
+  color: var(--texto);
+  font-family: Georgia, "Times New Roman", serif;
+  text-transform: none;
+}
+
+.reveal h2 {
+  border-bottom: 1px solid var(--borde);
+  padding-bottom: .25em;
+}
+
+.reveal h3 {
+  color: var(--oro);
+}
+
+.reveal p,
+.reveal li {
+  line-height: 1.35;
+}
+
+.reveal strong {
+  color: white;
+}
+
+.reveal blockquote {
+  width: auto;
+  background: var(--panel);
+  border-left: 5px solid var(--oro);
+  padding: .8em 1em;
+  box-shadow: none;
+}
+
+.portada-frase,
+.idea-clave,
+.pregunta,
+.nota,
+.formula,
+.cierre {
+  background: var(--panel);
+  border: 1px solid var(--borde);
+  border-radius: 14px;
+  padding: .75em 1em;
+  margin-top: .8em;
+}
+
+.portada-frase,
+.idea-clave {
+  border-left: 5px solid var(--oro);
+}
+
+.pregunta {
+  border-left: 5px solid var(--celeste);
+}
+
+.nota {
+  border-left: 5px solid var(--verde);
+  color: var(--muted);
+  font-size: .78em;
+}
+
+.formula {
+  text-align: center;
+  font-size: 1.05em;
+  border-color: var(--oro);
+}
+
+.cierre {
+  text-align: center;
+  border-top: 3px solid var(--oro);
+  font-size: 1.1em;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: .65em;
+  margin-top: .8em;
+}
+
+.card {
+  background: var(--panel);
+  border: 1px solid var(--borde);
+  border-radius: 14px;
+  padding: .7em .85em;
+}
+
+.card h3 {
+  margin-top: 0;
+  margin-bottom: .25em;
+  font-size: .9em;
+}
+
+.card p {
+  color: var(--muted);
+}
+
+.comparacion {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: .8em;
+  margin-top: .7em;
+}
+
+.lado {
+  background: var(--panel);
+  border: 1px solid var(--borde);
+  border-radius: 14px;
+  padding: .75em 1em;
+}
+
+.lado:first-child {
+  border-top: 3px solid var(--oro);
+}
+
+.lado:last-child {
+  border-top: 3px solid var(--celeste);
+}
+
+.flujo {
+  text-align: center;
+  background: var(--panel);
+  border: 1px solid var(--borde);
+  border-radius: 14px;
+  padding: .8em;
+  margin: .8em 0;
+  color: var(--celeste);
+  font-weight: 700;
+  letter-spacing: .03em;
+}
+
+.reveal .slide-number {
+  color: var(--muted);
+  background: transparent;
+}
+
+.reveal .footer {
+  color: var(--muted);
+  font-size: .45em;
+}
+
+.reveal .progress {
+  color: var(--oro);
+}
+
+@media (max-width: 900px) {
+  .cards,
+  .comparacion {
+    grid-template-columns: 1fr;
+  }
+}

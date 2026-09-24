@@ -19,5 +19,26 @@
   },
   "clases/clase01-presentacion.qmd": {
     "clase01-presentacion.html": "bacc147d"
+  },
+  "clases/empresa_uba.qmd": {
+    "empresa_uba.html": "31cac900"
+  },
+  "clases/empresa_uba_flat.qmd": {
+    "empresa_uba_flat.html": "1e7eb811"
+  },
+  "clases/empresa_uba_v3.qmd": {
+    "empresa_uba_v3.html": "6c5c9888"
+  },
+  "clases/empresa_uba_rehecha.qmd": {
+    "empresa_uba_rehecha.html": "434ec50d"
+  },
+  "clases/empresa_FUNCIONAL_sin_css.qmd": {
+    "empresa_FUNCIONAL_sin_css.html": "45cd2fbc"
+  },
+  "./elementos-esenciales-contrato.qmd": {
+    "elementos-esenciales-contrato.html": "31527c10"
+  },
+  "clases/elementos-esenciales-contrato.qmd": {
+    "elementos-esenciales-contrato.html": "849f2a36"
   }
 }

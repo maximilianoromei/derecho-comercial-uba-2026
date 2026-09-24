@@ -1,0 +1,984 @@
+---
+title: "La empresa"
+subtitle: "Concepto económico, organización y proyección jurídica"
+author: "Derecho Comercial · UBA"
+format:
+  revealjs:
+    theme: simple
+    css: empresa_uba_nueva.css
+    slide-number: true
+    controls: true
+    progress: true
+    hash: true
+    transition: fade
+    background-transition: fade
+    center: false
+    scrollable: true
+execute:
+  echo: false
+---
+
+## La empresa
+
+### Derecho Comercial · UBA
+
+**Organización económica, actividad, bienes, sujetos y régimen jurídico**
+
+::: {.portada-frase}
+La empresa no es una persona jurídica, ni un local, ni una sociedad: es una **organización económica en funcionamiento**.
+:::
+
+---
+
+## Mapa de la clase
+
+1. Concepto económico y características  
+2. Empresa como organización y sistema  
+3. Factores de producción y elementos  
+4. Hacienda, establecimiento y fondo de comercio  
+5. Empresa frente al Derecho  
+6. Art. 320 CCyC y actividad económica organizada  
+7. Empresa, empresario y sociedad  
+8. Clases de empresas  
+9. Conservación de la empresa  
+10. MiPyMEs y empresas B  
+
+---
+
+## 1 · Punto de partida
+
+::: {.pregunta}
+**¿Qué hace que exista una empresa?**
+:::
+
+No alcanza con tener:
+
+- bienes;
+- dinero;
+- trabajadores;
+- un local;
+- una sociedad.
+
+Debe existir una **organización de recursos y personas orientada a una actividad económica**.
+
+---
+
+## Concepto económico
+
+Desde la teoría económica, la empresa puede describirse como una organización que:
+
+- coordina **capital y trabajo**;
+- utiliza un proceso de **planificación, organización, dirección y control**;
+- produce o comercializa **bienes y servicios**;
+- actúa en un **mercado**;
+- asume **riesgo**.
+
+::: {.idea-clave}
+**Empresa = organización + actividad + mercado + riesgo**
+:::
+
+---
+
+## Características
+
+::: {.cards}
+::: {.card}
+### Riesgo
+El resultado económico es incierto.
+:::
+
+::: {.card}
+### Iniciativa
+Se detectan oportunidades y se organizan recursos.
+:::
+
+::: {.card}
+### Mercado
+Se procura identificar bienes y servicios demandados.
+:::
+
+::: {.card}
+### Administración
+Planificar, organizar, dirigir y controlar.
+:::
+:::
+
+---
+
+## Innovación y competencia
+
+La empresa compite mediante innovación en:
+
+- productos;
+- procedimientos;
+- métodos comerciales;
+- formas de organización;
+- formas de dirección.
+
+::: {.pregunta}
+**¿Puede existir empresa sin innovación?**  
+Sí. Pero la innovación constituye una herramienta central de competencia y adaptación.
+:::
+
+---
+
+## 2 · La empresa como organización
+
+Una organización es un sistema abierto integrado por:
+
+- personas;
+- bienes tangibles;
+- bienes intangibles;
+- relaciones;
+- procesos.
+
+Todos ellos interactúan en función de un **objetivo común**.
+
+---
+
+## Estructura y procesos
+
+::: {.comparacion}
+::: {.lado}
+### Estructura
+Relaciones de:
+
+- jerarquía;
+- autoridad;
+- responsabilidad;
+- comunicación.
+:::
+
+::: {.lado}
+### Procesos
+Mecanismos de:
+
+- coordinación;
+- decisión;
+- circulación de información;
+- control.
+:::
+:::
+
+::: {.nota}
+La clasificación específica de estructuras organizacionales se trabaja separadamente con Mintzberg.
+:::
+
+---
+
+## La empresa como sistema
+
+::: {.flujo}
+**ENTRADAS** → **PROCESOS** → **SALIDAS**
+:::
+
+**Entradas:** personas, capital, materias primas, energía, información.  
+
+**Procesos:** transformación, organización, producción, prestación de servicios.  
+
+**Salidas:** bienes, servicios, resultados e información.
+
+---
+
+## El entorno empresario
+
+::: {.comparacion}
+::: {.lado}
+### Entorno general
+- factores económicos;
+- político-legales;
+- socioculturales;
+- tecnológicos.
+:::
+
+::: {.lado}
+### Entorno específico
+- clientes;
+- proveedores;
+- competencia;
+- fuentes de financiación;
+- grado de concentración;
+- madurez del negocio.
+:::
+:::
+
+---
+
+## Decisiones empresarias
+
+Las decisiones pueden ser:
+
+**Programadas**  
+Cuando pueden anticiparse porque existen antecedentes o procedimientos.
+
+**No programadas**  
+Cuando dependen de variables inciertas o no controlables.
+
+::: {.flujo}
+**Problema** → **Información** → **Alternativas** → **Decisión**
+:::
+
+---
+
+## 3 · Factores de producción
+
+En la empresa confluyen los factores clásicos de producción:
+
+::: {.cards}
+::: {.card}
+### Tierra
+Recursos naturales y espacio físico.
+:::
+
+::: {.card}
+### Capital
+Bienes, instalaciones, tecnología y recursos financieros.
+:::
+
+::: {.card}
+### Trabajo
+Actividad humana aplicada a la producción.
+:::
+
+::: {.card}
+### Organización
+Coordinación empresaria de los restantes factores.
+:::
+:::
+
+---
+
+## Los elementos de la empresa
+
+La empresa puede analizarse desde tres dimensiones:
+
+::: {.cards}
+::: {.card}
+### Objetiva
+Bienes materiales e inmateriales.
+:::
+
+::: {.card}
+### Subjetiva
+Propietarios, administradores, trabajadores y colaboradores.
+:::
+
+::: {.card}
+### Dinámica
+La actividad organizada.
+:::
+:::
+
+---
+
+## Elementos materiales
+
+Entre otros:
+
+- inmuebles;
+- instalaciones;
+- maquinarias;
+- mercaderías;
+- vehículos;
+- dinero;
+- bienes de uso;
+- materias primas.
+
+::: {.idea-clave}
+Por sí solos, estos bienes **no constituyen una empresa**.
+:::
+
+---
+
+## Elementos inmateriales
+
+Pueden integrar la explotación:
+
+- marcas;
+- patentes;
+- nombre comercial;
+- modelos y diseños;
+- know how;
+- tecnología;
+- clientela;
+- reputación;
+- secretos empresariales.
+
+---
+
+## Marcas y patentes
+
+::: {.comparacion}
+::: {.lado}
+### Marca
+Identifica productos o servicios y permite distinguirlos en el mercado.
+:::
+
+::: {.lado}
+### Patente
+Protege jurídicamente una invención cuando reúne los requisitos legales.
+:::
+:::
+
+Ambas pueden constituir **activos intangibles** relevantes para el valor empresario.
+
+---
+
+## Llave de negocio
+
+La llamada **llave** expresa el valor adicional que deriva de la empresa en funcionamiento.
+
+Puede vincularse con:
+
+- clientela;
+- ubicación;
+- reputación;
+- organización;
+- capacidad de generar beneficios;
+- relaciones comerciales.
+
+::: {.idea-clave}
+No equivale a un bien material aislado: surge de la **organización en marcha**.
+:::
+
+---
+
+## Hacienda
+
+La **hacienda** es el conjunto de elementos materiales e inmateriales organizados para la explotación empresaria.
+
+::: {.formula}
+**Hacienda = bienes organizados para la actividad**
+:::
+
+No debe confundirse con la empresa completa, porque la empresa incorpora además personas y actividad.
+
+---
+
+## Establecimiento
+
+La palabra puede utilizarse en dos sentidos.
+
+::: {.comparacion}
+::: {.lado}
+### Sentido vulgar
+El lugar físico:
+
+- local;
+- oficina;
+- galpón;
+- fábrica.
+:::
+
+::: {.lado}
+### Sentido jurídico
+El conjunto organizado de bienes destinado al ejercicio de la actividad.
+:::
+:::
+
+---
+
+## Fondo de comercio
+
+El **fondo de comercio** refiere al conjunto organizado de bienes destinados a una explotación comercial.
+
+Puede comprender:
+
+- instalaciones;
+- mercaderías;
+- nombre;
+- marcas;
+- clientela;
+- derecho al local;
+- otros elementos de la explotación.
+
+::: {.idea-clave}
+**Empresa ≠ fondo de comercio.**  
+El fondo es una dimensión objetiva de la organización empresaria.
+:::
+
+---
+
+## Estática y dinámica
+
+::: {.comparacion}
+::: {.lado}
+### Estática
+La empresa vista en sus recursos:
+
+- bienes;
+- capital;
+- personas;
+- organización.
+:::
+
+::: {.lado}
+### Dinámica
+La empresa **en marcha**:
+
+- producción;
+- intercambio;
+- prestación;
+- financiación;
+- crecimiento.
+:::
+:::
+
+---
+
+## Funciones de la empresa
+
+La función principal es generar bienes y servicios en condiciones de eficiencia económica.
+
+Además:
+
+- reduce costos de mercado e información;
+- coordina el proceso productivo;
+- anticipa recursos;
+- asume riesgo;
+- genera riqueza;
+- crea empleo.
+
+---
+
+## 4 · La empresa frente al Derecho
+
+El Derecho utiliza el término **empresa** con distintos sentidos.
+
+Puede aludir a:
+
+- un sujeto;
+- un patrimonio;
+- una actividad;
+- una institución.
+
+::: {.idea-clave}
+Ninguna de esas miradas, por sí sola, agota el fenómeno empresario.
+:::
+
+---
+
+## Cuatro perfiles jurídicos
+
+::: {.cards}
+::: {.card}
+### Subjetivo
+Empresa como centro funcional o sujeto.
+:::
+
+::: {.card}
+### Patrimonial
+Empresa identificada con la hacienda.
+:::
+
+::: {.card}
+### Actividad
+Empresa como actividad económica organizada.
+:::
+
+::: {.card}
+### Institucional
+Empresa como organización social orientada a un objetivo.
+:::
+:::
+
+---
+
+## Regulación transversal
+
+La empresa es regulada por múltiples ramas:
+
+- derecho comercial;
+- derecho societario;
+- derecho laboral;
+- derecho tributario;
+- derecho concursal;
+- derecho del consumidor;
+- derecho ambiental.
+
+::: {.pregunta}
+**Por eso, ¿existe un único “Derecho de la empresa”?**
+:::
+
+---
+
+## 5 · Artículo 320 CCyC
+
+El art. 320 obliga a llevar contabilidad a:
+
+- todas las personas jurídicas privadas;
+- quienes realizan una **actividad económica organizada**;
+- quienes son titulares de una **empresa**;
+- quienes son titulares de un **establecimiento comercial, industrial o de servicios**.
+
+---
+
+## Lo importante del art. 320
+
+La norma menciona separadamente:
+
+::: {.flujo}
+**actividad económica organizada** · **empresa** · **establecimiento**
+:::
+
+Por lo tanto, no deben tratarse automáticamente como sinónimos.
+
+---
+
+## Actividad económica organizada
+
+Supone:
+
+- reiteración de actos;
+- coordinación;
+- organización;
+- finalidad o efectos económicos;
+- una unidad funcional distinguible de su titular.
+
+::: {.idea-clave}
+Puede existir **actividad económica organizada** sin alcanzar todavía la complejidad propia de una empresa.
+:::
+
+---
+
+## Empresa como especie
+
+En la construcción doctrinaria utilizada en el material:
+
+::: {.formula}
+**Actividad económica organizada = género**  
+**Empresa = especie**
+:::
+
+La empresa presenta una organización económica más intensa y compleja.
+
+---
+
+## Rasgos que permiten reconocer empresa
+
+Entre los elementos que pueden diferenciarla:
+
+- profesionalidad;
+- mayor complejidad;
+- permanencia;
+- habitualidad;
+- asunción de riesgo;
+- utilización de trabajo ajeno;
+- mayor incidencia del capital;
+- propósito lucrativo;
+- recurso habitual al crédito.
+
+---
+
+## Criterios de distinción
+
+::: {.comparacion}
+::: {.lado}
+### Cuantitativo
+Se observa:
+
+- capital;
+- colaboradores;
+- volumen de actividad;
+- facturación.
+:::
+
+::: {.lado}
+### Cualitativo
+Se observa cuánto pesa el trabajo personal del titular frente a la organización y al trabajo ajeno.
+:::
+:::
+
+---
+
+## Profesiones liberales
+
+Las personas humanas que ejercen profesiones liberales no quedan sometidas automáticamente a la obligación contable.
+
+La cuestión cambia cuando la actividad se encuentra **organizada en forma de empresa**.
+
+::: {.pregunta}
+Un médico con consultorio individual no plantea el mismo problema que una clínica con estructura administrativa, empleados y múltiples profesionales.
+:::
+
+---
+
+## Actividad agropecuaria
+
+El art. 320 contempla también exclusiones para actividades agropecuarias y conexas cuando no se encuentran organizadas en forma de empresa.
+
+::: {.idea-clave}
+Otra vez, la **organización empresaria** funciona como elemento diferenciador.
+:::
+
+---
+
+## 6 · Empresa, empresario y sociedad
+
+::: {.formula}
+**EMPRESARIO** → titular  
+**EMPRESA** → organización económica  
+**SOCIEDAD** → sujeto jurídico  
+**ESTABLECIMIENTO** → conjunto organizado de bienes / asiento de la actividad
+:::
+
+No son sinónimos.
+
+---
+
+## El empresario
+
+El empresario es el **titular de la empresa**.
+
+Desde la perspectiva organizativa:
+
+- dirige;
+- decide;
+- asume riesgos;
+- responde por resultados;
+- procura continuidad;
+- innova.
+
+Puede ser una **persona humana o jurídica**.
+
+---
+
+## Empresario individual
+
+Existe empresario individual cuando una persona humana desarrolla la empresa por cuenta propia.
+
+::: {.idea-clave}
+La empresa no adquiere por eso personalidad jurídica propia.
+:::
+
+El patrimonio del empresario y la organización empresaria no deben confundirse conceptualmente.
+
+---
+
+## Empresario colectivo
+
+La titularidad puede corresponder a una persona jurídica.
+
+El ejemplo típico es la **sociedad**.
+
+::: {.formula}
+La sociedad puede ser **empresario** porque puede ser titular de una empresa.
+:::
+
+---
+
+## Empresa y sociedad
+
+::: {.comparacion}
+::: {.lado}
+### Empresa
+- realidad económica;
+- organización productiva;
+- no posee personalidad propia.
+:::
+
+::: {.lado}
+### Sociedad
+- realidad jurídica;
+- sujeto de derecho;
+- posee personalidad diferenciada.
+:::
+:::
+
+::: {.idea-clave}
+**Nunca corresponde identificar automáticamente empresa con sociedad.**
+:::
+
+---
+
+## Una sociedad, varias empresas
+
+Una misma sociedad puede:
+
+- desarrollar varias unidades de negocio;
+- explotar distintos establecimientos;
+- reorganizar internamente sus actividades.
+
+Del mismo modo, una empresa puede cambiar su forma jurídica sin desaparecer como organización económica.
+
+---
+
+## 7 · Clases de empresas
+
+Las empresas pueden clasificarse según distintos criterios:
+
+- dimensión;
+- titularidad;
+- ámbito de actuación;
+- finalidad;
+- estructura del capital.
+
+---
+
+## Empresa privada
+
+Su titularidad corresponde a sujetos privados.
+
+Puede adoptar distintas formas:
+
+- explotación individual;
+- sociedad;
+- cooperativa;
+- otras personas jurídicas privadas.
+
+---
+
+## Empresa estatal
+
+En la empresa estatal existe una presencia decisiva del Estado en la titularidad o control de la organización económica.
+
+::: {.idea-clave}
+La actividad empresaria no es exclusiva de sujetos privados.
+:::
+
+El régimen jurídico concreto depende de la forma adoptada y de las normas aplicables.
+
+---
+
+## Empresa de economía mixta
+
+Combina participación:
+
+- estatal;
+- privada.
+
+Puede perseguir objetivos económicos y, al mismo tiempo, finalidades de interés público.
+
+::: {.pregunta}
+La composición del capital no modifica el dato económico básico: sigue existiendo una organización de recursos orientada a una actividad.
+:::
+
+---
+
+## Empresas multinacionales
+
+Actúan económicamente en varios Estados.
+
+Pueden organizarse mediante:
+
+- sociedades vinculadas;
+- subsidiarias;
+- sucursales;
+- grupos económicos;
+- contratos y redes empresarias.
+
+::: {.idea-clave}
+La **empresa económica** puede exceder ampliamente a un único sujeto jurídico.
+:::
+
+---
+
+## Clasificación por dimensión
+
+::: {.flujo}
+**Micro** → **Pequeña** → **Mediana** → **Grande**
+:::
+
+Los criterios varían según el régimen aplicable:
+
+- ventas;
+- trabajadores;
+- capital;
+- activos;
+- sector de actividad.
+
+---
+
+## MiPyMEs
+
+Las leyes **24.467** y **25.300** establecieron instrumentos de promoción y fortalecimiento para micro, pequeñas y medianas empresas.
+
+Objetivo central:
+
+::: {.idea-clave}
+facilitar inversión, financiación, garantías y desarrollo productivo.
+:::
+
+---
+
+## Instrumentos de promoción
+
+Entre los mecanismos desarrollados por el régimen:
+
+- Fondo Nacional de Desarrollo para la MiPyME;
+- Sociedades de Garantía Recíproca;
+- fondos de garantía;
+- bonificación de tasas;
+- herramientas para facilitar acceso al crédito.
+
+---
+
+## Empresa y crédito
+
+La empresa necesita recursos para financiar su ciclo operativo.
+
+::: {.flujo}
+**Financiación** → **Producción** → **Venta** → **Cobro** → **Reinversión**
+:::
+
+La recurrencia al crédito constituye uno de los rasgos que pueden mostrar una organización empresaria más compleja.
+
+---
+
+## 8 · Conservación de la empresa
+
+¿Por qué el Derecho procura conservar empresas viables?
+
+::: {.cards}
+::: {.card}
+### Producción
+Generan bienes y servicios.
+:::
+
+::: {.card}
+### Empleo
+Generan trabajo y salarios.
+:::
+
+::: {.card}
+### Crédito
+Son tomadoras y dadoras de crédito.
+:::
+:::
+
+---
+
+## Manifestaciones del principio de conservación
+
+El material vincula la conservación empresaria con:
+
+- reactivación societaria;
+- continuidad de personas jurídicas;
+- superación de soluciones meramente liquidativas;
+- reorganización;
+- soluciones concursales orientadas a la continuidad.
+
+---
+
+## Empresa y crisis
+
+::: {.comparacion}
+::: {.lado}
+### Fisiología
+Funcionamiento normal:
+
+- actividad;
+- crecimiento;
+- beneficios;
+- inversión.
+:::
+
+::: {.lado}
+### Patología
+Crisis:
+
+- conflictos;
+- pérdidas;
+- iliquidez;
+- insolvencia.
+:::
+:::
+
+El Derecho concursal aparece cuando la crisis compromete la continuidad.
+
+---
+
+## Fraccionamiento patrimonial
+
+La utilización de varias personas jurídicas no debe ocultar una única realidad patrimonial de manera abusiva.
+
+El material vincula esta cuestión con:
+
+- art. 54 LGS;
+- confusión patrimonial;
+- extensión de quiebra;
+- existencia real de actividad empresaria.
+
+---
+
+## Empresas B
+
+Las llamadas empresas **B** procuran generar:
+
+- beneficios económicos;
+- impacto social positivo;
+- impacto ambiental positivo.
+
+Incorporan estándares de:
+
+- transparencia;
+- gobierno;
+- relación con trabajadores;
+- comunidad;
+- ambiente.
+
+---
+
+## Empresa B: precisión jurídica
+
+La calificación “B” describe un **modelo de negocio y gestión**.
+
+::: {.idea-clave}
+No constituye, por sí sola, un nuevo tipo societario.
+:::
+
+Debe distinguirse entre la empresa como actividad y la forma jurídica utilizada por su titular.
+
+---
+
+## Mapa final
+
+::: {.formula}
+**EMPRESARIO**  
+↓ organiza  
+**EMPRESA**  
+↓ integra  
+**PERSONAS + HACIENDA + ACTIVIDAD**  
+↓ puede exteriorizarse mediante  
+**ESTABLECIMIENTOS / SOCIEDADES / UNIDADES DE NEGOCIO**
+:::
+
+---
+
+## Cinco ideas para llevarse
+
+1. La empresa es una **organización económica en funcionamiento**.  
+2. No se identifica con la sociedad, el empresario ni el establecimiento.  
+3. La hacienda reúne los bienes organizados para la explotación.  
+4. El art. 320 distingue actividad económica organizada, empresa y establecimiento.  
+5. La continuidad empresaria posee relevancia económica y jurídica.
+
+---
+
+## Caso de cierre
+
+**Estudio Norte**
+
+Una arquitecta trabaja con tres profesionales, una administrativa, software especializado, marca registrada, contratos con proveedores, crédito bancario y veinte proyectos simultáneos. Factura personalmente.
+
+### Preguntas
+
+1. ¿Hay actividad económica organizada?  
+2. ¿Hay empresa?  
+3. ¿Quién es el empresario?  
+4. ¿Existe sociedad?  
+5. ¿Qué integra la hacienda?  
+6. ¿Qué relevancia tiene el art. 320 CCyC?
+
+---
+
+## Bibliografía de base
+
+**Favier Dubois, Eduardo M.** (dir.), *Manual de Derecho Crediticio, Bursátil y Seguros*, Erreius, 2021.
+
+**Material de cátedra:** “La empresa”.
+
+::: {.cierre}
+**Empresa ≠ sociedad ≠ empresario ≠ establecimiento**  
+La empresa es una **organización económica en actividad**.
+:::

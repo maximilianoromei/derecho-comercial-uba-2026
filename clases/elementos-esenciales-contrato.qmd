@@ -1,0 +1,590 @@
+
+---
+title: "Elementos esenciales de los contratos"
+subtitle: "Consentimiento · Objeto · Causa · Forma"
+author: "Prof. Maximiliano Lucas Romei"
+format:
+  revealjs:
+    theme: default
+    css: styles.css
+    slide-number: true
+    chalkboard: true
+    scrollable: true
+    transition: slide
+    width: 1600
+    height: 900
+    slide-level: 2
+---
+
+# Elementos esenciales de los contratos
+
+## Consentimiento · Objeto · Causa · Forma
+
+### Pregunta inicial
+
+¿Alcanza con que dos personas estén de acuerdo para que exista un contrato jurídicamente eficaz?
+
+---
+
+## 1. ¿Qué es un contrato?
+
+### Art. 957 CCyC
+
+> **Contrato** es el acto jurídico mediante el cual dos o más partes manifiestan su consentimiento para crear, regular, modificar, transferir o extinguir relaciones jurídicas patrimoniales.
+
+### Ejemplo
+
+Ana vende a Bruno una notebook por **$800.000**.
+
+- Ana se obliga a entregar la notebook.
+- Bruno se obliga a pagar el precio.
+- El acuerdo crea una **relación jurídica patrimonial**.
+
+---
+
+## 2. ¿Qué elementos debemos analizar?
+
+### Consentimiento
+
+¿Las partes llegaron a un **acuerdo**?
+
+### Objeto
+
+¿**Sobre qué** se contrata?
+
+### Causa
+
+¿Cuál es la **razón jurídica** del negocio?
+
+### Forma
+
+¿Cómo se exterioriza el consentimiento?  
+¿Exige la ley una forma determinada?
+
+> **Idea clave:** puede existir acuerdo entre las partes y, sin embargo, existir un problema relativo al objeto, la causa o la forma.
+
+---
+
+# I. Consentimiento
+
+## El encuentro de las voluntades
+
+Como regla:
+
+**OFERTA + ACEPTACIÓN = CONSENTIMIENTO**
+
+Pero el CCyC admite también que el acuerdo pueda exteriorizarse mediante la **conducta de las partes**.
+
+---
+
+## 3. Formación del consentimiento
+
+### Art. 971 CCyC
+
+> Los contratos se concluyen con la recepción de la aceptación de una oferta o por una conducta de las partes que sea suficiente para demostrar la existencia de un acuerdo.
+
+### Ejemplo
+
+Lucía dice:
+
+> Te vendo mi bicicleta por **$300.000**.
+
+Martín responde:
+
+> **Acepto.** Te pago los $300.000.
+
+### Resultado
+
+Existe coincidencia entre **oferta y aceptación**.
+
+---
+
+## 4. La oferta
+
+### Art. 972 CCyC
+
+La oferta debe:
+
+- dirigirse a persona **determinada o determinable**;
+- exteriorizar una **intención de obligarse**;
+- contener las precisiones necesarias para establecer sus efectos.
+
+### Comparemos
+
+**A.** “Algún día podría venderte mi auto.”
+
+**B.** “Te vendo mi auto por USD 15.000.”
+
+### Pregunta
+
+¿Las dos declaraciones constituyen una verdadera **oferta contractual**?
+
+---
+
+## 5. La aceptación
+
+### Art. 978 CCyC
+
+Para concluir el contrato, la aceptación debe expresar **plena conformidad con la oferta**.
+
+### Ejemplo
+
+**Oferta:**
+
+> Vendo el celular por $500.000 al contado.
+
+**Respuesta:**
+
+> Acepto si puedo pagarlo en diez cuotas.
+
+### ¿Hay aceptación?
+
+**No en los términos de la oferta original.**
+
+La respuesta modifica la propuesta y constituye, en principio, una **nueva oferta**.
+
+---
+
+## 6. ¿El silencio significa aceptación?
+
+### Regla general
+
+**El silencio no importa aceptación.**
+
+### Ejemplo
+
+Una empresa envía un correo:
+
+> “Si no responde antes del viernes, entenderemos que acepta nuestra oferta.”
+
+La falta de respuesta **no basta**, por sí sola, para celebrar el contrato.
+
+### Art. 979 CCyC
+
+El silencio puede importar aceptación cuando existe un **deber de expedirse**, que puede resultar:
+
+- de la voluntad de las partes;
+- de los usos;
+- de las prácticas establecidas entre ellas;
+- de declaraciones precedentes.
+
+---
+
+## 7. ¿La aceptación necesita una firma?
+
+### No necesariamente
+
+El art. 979 CCyC establece:
+
+> Toda declaración o acto del destinatario que revela conformidad con la oferta constituye aceptación.
+
+### Ejemplo
+
+Una persona recibe una propuesta para continuar arrendando un campo.
+
+No firma el documento, pero:
+
+- continúa ocupándolo;
+- continúa explotándolo;
+- paga conforme a las nuevas condiciones.
+
+### Pregunta
+
+¿Su **conducta** puede revelar aceptación?
+
+---
+
+## 8. Jurisprudencia: conducta concluyente
+
+### Aceptación tácita
+
+La jurisprudencia exige que la conducta invocada permita inferir de manera **inequívoca** la voluntad de obligarse.
+
+No alcanza cualquier comportamiento.
+
+### Aplicación práctica
+
+Para determinar si hubo aceptación debemos preguntarnos:
+
+1. ¿La persona conocía la oferta?
+2. ¿Realizó actos compatibles con ella?
+3. ¿Esos actos permiten inferir conformidad?
+4. ¿Existe otra explicación razonable para esa conducta?
+
+### Regla para recordar
+
+**La firma es una forma de exteriorizar la voluntad, pero no es la única.**
+
+[Ver jurisprudencia — Poder Judicial de Río Negro](https://fallos.jusrionegro.gov.ar/protocoloweb/protocolo/protocolo?id_protocolo=e054c5ef-f6cc-4379-a36c-342761515718&option_text=0&usarSearch=1)
+
+---
+
+# II. Objeto
+
+## ¿Sobre qué se contrata?
+
+No basta con que exista acuerdo.
+
+Aquello que las partes acuerdan debe reunir los requisitos establecidos por el ordenamiento.
+
+---
+
+## 9. El objeto del contrato
+
+### Art. 1003 CCyC
+
+Al objeto del contrato se aplican las disposiciones relativas al **objeto de los actos jurídicos**.
+
+El objeto contractual se vincula con las prestaciones comprometidas por las partes.
+
+### Ejemplos
+
+- **Dar:** entregar una computadora.
+- **Hacer:** construir una vivienda.
+- **Servicio:** prestar asesoramiento profesional.
+- **Bien futuro:** entregar una cosecha futura.
+
+---
+
+## 10. Requisitos del objeto
+
+El objeto debe ser:
+
+- **lícito**;
+- **posible**;
+- **determinado o determinable**;
+- susceptible de valoración económica;
+- correspondiente a un interés de las partes, aunque éste no sea patrimonial.
+
+### Ejemplo
+
+> “Te vendo 100 toneladas de trigo, calidad X, a entregar en diciembre.”
+
+El trigo concreto todavía puede no estar individualizado.
+
+Sin embargo, la prestación es **determinable**.
+
+---
+
+## 11. Determinado y determinable
+
+| Determinado | Determinable |
+|---|---|
+| “Te vendo **esta computadora** por $1.000.000.” | “Te vendo 1.000 litros de combustible al precio mayorista publicado por X el día de la entrega.” |
+| La prestación ya está individualizada. | Existe un mecanismo para individualizarla. |
+
+### Idea clave
+
+**Determinable no significa indeterminado.**
+
+No necesitamos conocer inicialmente todos los datos si existe un mecanismo que permita precisarlos.
+
+---
+
+## 12. Objeto imposible o ilícito
+
+### Primer caso
+
+A pretende vender a B un bien que jurídicamente no puede ser objeto de esa operación en esos términos.
+
+**¿Falta consentimiento?**
+
+No necesariamente.
+
+Las partes pueden estar completamente de acuerdo y existir igualmente un problema relativo al **objeto**.
+
+### Segundo caso
+
+A promete pagar a B $5.000.000 para que B cometa un delito.
+
+Existe:
+
+- acuerdo;
+- precio;
+- prestación determinada.
+
+### Pero...
+
+**La autonomía de la voluntad no convierte en lícito cualquier acuerdo.**
+
+---
+
+# III. Causa
+
+## ¿Por qué el ordenamiento reconoce este negocio?
+
+La causa no debe confundirse automáticamente con los **motivos personales** que llevan a contratar.
+
+---
+
+## 13. La causa del contrato
+
+### Art. 1012 CCyC
+
+A la causa de los contratos se aplican las disposiciones relativas a la **causa de los actos jurídicos**.
+
+### Art. 1013 CCyC
+
+La causa debe:
+
+- existir en la formación del contrato;
+- existir durante su celebración;
+- subsistir durante su ejecución.
+
+### Aproximación
+
+Podemos pensar la causa como la **razón jurídica inmediata que justifica el negocio contractual**.
+
+---
+
+## 14. Causa y motivos personales
+
+### Ejemplo: compraventa de un automóvil
+
+**Estructura del negocio:**
+
+**AUTOMÓVIL ⇄ PRECIO**
+
+### Comprador
+
+Su motivo personal puede ser:
+
+> “Necesito el automóvil para ir a trabajar.”
+
+### Vendedor
+
+Su motivo personal puede ser:
+
+> “Necesito el dinero para realizar un viaje.”
+
+### Distinción
+
+Los motivos personales pueden variar.
+
+La estructura jurídica del negocio sigue siendo una **compraventa**.
+
+---
+
+## 15. Causa ilícita
+
+### Art. 1014 CCyC
+
+El contrato es nulo cuando su causa es contraria a:
+
+- la moral;
+- el orden público;
+- las buenas costumbres.
+
+También cuando ambas partes lo concluyen por un **motivo ilícito o inmoral común**.
+
+### Ejemplo
+
+A entrega $2.000.000 a B para que soborne a un funcionario.
+
+Tenemos:
+
+- consentimiento;
+- prestación determinada;
+- precio determinado.
+
+### Pregunta
+
+¿Alcanza para que exista un contrato válido?
+
+**No. La causa es ilícita.**
+
+---
+
+# IV. Forma
+
+## ¿Cómo se exterioriza el contrato?
+
+### Regla
+
+**Libertad de formas**
+
+### Excepción
+
+**Forma determinada impuesta por la ley**
+
+---
+
+## 16. Principio de libertad de formas
+
+### Art. 1015 CCyC
+
+> Sólo son formales los contratos a los cuales la ley les impone una forma determinada.
+
+### Por lo tanto
+
+Un contrato puede celebrarse:
+
+- verbalmente;
+- por escrito;
+- electrónicamente;
+- mediante una conducta concluyente.
+
+### Ejemplo
+
+Comprar una bicicleta no requiere, como regla, una escritura pública.
+
+### Idea clave
+
+**Contrato ≠ documento firmado**
+
+---
+
+## 17. Cuando la ley exige escritura pública
+
+### Art. 1017 CCyC
+
+Deben otorgarse por **escritura pública**, entre otros:
+
+- los contratos que tienen por objeto la adquisición, modificación o extinción de derechos reales sobre inmuebles;
+- los contratos que tienen por objeto derechos dudosos o litigiosos sobre inmuebles;
+- los demás contratos que por acuerdo de partes o disposición legal deban otorgarse por escritura pública.
+
+### Ejemplo
+
+Ana dice:
+
+> “Te vendo mi departamento.”
+
+Bruno responde:
+
+> “Acepto.”
+
+### Pregunta
+
+¿Produce ese acuerdo exactamente los mismos efectos que la compraventa verbal de una bicicleta?
+
+---
+
+## 18. Falta de escritura: ¿el contrato es nulo?
+
+### Cuidado: no necesariamente
+
+El art. 1018 CCyC establece que, cuando la forma no está impuesta bajo sanción de nulidad, el otorgamiento pendiente del instrumento constituye una **obligación de hacer**.
+
+### Ejemplo clásico
+
+**Boleto de compraventa de inmueble**
+
+El boleto:
+
+- no transmite por sí solo el derecho real de dominio;
+- produce efectos obligacionales;
+- permite exigir, reunidos los presupuestos correspondientes, el **otorgamiento de la escritura**.
+
+### Consecuencia
+
+No debemos confundir:
+
+**contrato → obligación de escriturar**
+
+con
+
+**escritura + modo → adquisición del derecho real**
+
+---
+
+## 19. Jurisprudencia: boleto y escritura pública
+
+La jurisprudencia ha destacado que el instrumento privado de compraventa inmobiliaria no produce por sí mismo la transmisión del derecho real.
+
+Sin embargo, ello **no significa que carezca de efectos jurídicos**.
+
+### Efecto obligacional
+
+El boleto genera una obligación de hacer:
+
+> **otorgar la escritura pública necesaria para perfeccionar la transmisión dominial.**
+
+### Artículos relacionados
+
+- **Art. 1017:** exigencia de escritura pública.
+- **Art. 1018:** obligación de otorgar el instrumento pendiente.
+
+### Para discutir
+
+¿Qué puede hacer el comprador si pagó el precio y el vendedor luego se niega a escriturar?
+
+**Puede demandar por escrituración**, si se encuentran reunidos los presupuestos correspondientes.
+
+[Ver jurisprudencia — Poder Judicial de Río Negro](https://fallos.jusrionegro.gov.ar/protocoloweb/protocolo/protocolo?id_protocolo=9507959d-282c-4468-8064-60b0b48417c2&option_text=0&usarSearch=1)
+
+---
+
+## 20. Caso integrador
+
+Juan le escribe por WhatsApp a Sofía:
+
+> “Te vendo mi **Toyota Corolla 2022** por **$20.000.000**. Me pagás el viernes y te lo entrego ese mismo día.”
+
+Sofía responde:
+
+> “**Acepto.** El viernes hacemos la operación.”
+
+### Analicemos
+
+1. ¿Existe **consentimiento**?
+2. ¿Cuál es el **objeto**?
+3. ¿Está determinado o es determinable?
+4. ¿Cuál es la **causa**?
+5. ¿Existe una exigencia especial de **forma**?
+
+### Cambiemos los hechos
+
+¿Qué ocurriría si Sofía respondiera:
+
+> “Acepto, pero te pago **$18.000.000**.”
+
+¿Y si en lugar de un automóvil se tratara de un **inmueble**?
+
+---
+
+# Para llevarse de la clase
+
+## Los cuatro elementos
+
+::: {.notice}
+### Consentimiento
+¿Existe **acuerdo de voluntades**?
+:::
+
+::: {.notice}
+### Objeto
+¿Sobre **qué** se contrata?
+:::
+
+::: {.notice}
+### Causa
+¿Cuál es la **razón jurídica** del negocio?
+:::
+
+::: {.notice}
+### Forma
+¿Cómo debe **exteriorizarse**?
+:::
+
+---
+
+## Método de análisis
+
+### Frente a un contrato, preguntarse:
+
+::: {.hero}
+### 1. ¿Hubo acuerdo?
+
+### 2. ¿Sobre qué se contrató?
+
+### 3. ¿Cuál es la causa?
+
+### 4. ¿Se respetó la forma exigida?
+:::
+
+::: {.notice}
+**Regla final**
+
+La autonomía de la voluntad permite a las partes contratar, pero el ordenamiento determina **cómo se forma el consentimiento, sobre qué puede contratarse, con qué causa y cuándo debe respetarse una forma determinada**.
+:::

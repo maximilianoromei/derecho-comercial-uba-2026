@@ -1,0 +1,592 @@
+---
+title: "La empresa"
+subtitle: "Organización, actividad económica y régimen jurídico"
+author: "Derecho Comercial · UBA"
+format:
+  revealjs:
+    theme: simple
+    css: empresa_uba.css
+    slide-number: true
+    scrollable: true
+    hash: true
+    controls: true
+    progress: true
+    transition: fade
+    background-transition: fade
+    center: false
+    width: 1600
+    height: 900
+    margin: 0.055
+    footer: "Derecho Comercial · La empresa"
+execute:
+  echo: false
+---
+
+## La empresa
+
+::: {.hero-grid}
+::: {.hero-copy}
+### Una realidad económica con múltiples proyecciones jurídicas
+
+La empresa no es, por sí sola, una persona jurídica.
+
+Tampoco se identifica sin más con sus bienes, con su titular ni con el establecimiento donde funciona.
+
+<div class="hero-question">¿Qué ve el Derecho cuando mira una empresa?</div>
+:::
+
+::: {.hero-diagram}
+<div class="equation">
+  <span class="pill gold">capital</span>
+  <span class="sign">+</span>
+  <span class="pill cyan">trabajo</span>
+  <span class="sign">+</span>
+  <span class="pill magenta">organización</span>
+  <span class="sign">+</span>
+  <span class="pill green">riesgo</span>
+</div>
+<div class="arrow-down">↓</div>
+<div class="big-chip">EMPRESA</div>
+:::
+:::
+
+::: {.source-note}
+Base doctrinaria: E. M. Favier Dubois, *Manual de Derecho Crediticio, Bursátil y Seguros* (2021), cap. “La empresa y sus fuentes de financiación”.
+:::
+## Mapa de la clase
+
+<div class="roadmap">
+  <div class="road-step"><b>01</b><span>Concepto económico</span></div>
+  <div class="road-step"><b>02</b><span>Organización y sistema</span></div>
+  <div class="road-step"><b>03</b><span>Elementos y funciones</span></div>
+  <div class="road-step"><b>04</b><span>Problema jurídico</span></div>
+  <div class="road-step"><b>05</b><span>Art. 320 CCyC</span></div>
+  <div class="road-step"><b>06</b><span>Empresa · empresario · sociedad</span></div>
+  <div class="road-step"><b>07</b><span>Conservación</span></div>
+  <div class="road-step"><b>08</b><span>Clases y modelos</span></div>
+</div>
+
+::: {.callout-box}
+**Fuera de esta presentación:** estructuras organizacionales de Mintzberg y empresa familiar, que se trabajan con materiales específicos.
+:::
+## I. La empresa como realidad económica {background-color="#0a0f17"}
+## Concepto económico
+
+> La empresa es una **organización** en la que se coordinan capital y trabajo, valiéndose de un proceso administrativo, para producir y comercializar bienes y servicios en un marco de riesgo.
+
+<div class="concept-row">
+  <div class="concept-card gold"><b>ORGANIZA</b><span>recursos y personas</span></div>
+  <div class="concept-card cyan"><b>PRODUCE</b><span>bienes o servicios</span></div>
+  <div class="concept-card magenta"><b>DECIDE</b><span>en un entorno incierto</span></div>
+  <div class="concept-card green"><b>ASUME</b><span>riesgo económico</span></div>
+</div>
+
+::: {.teacher-prompt}
+**Pregunta para abrir:** ¿una persona que vende ocasionalmente por internet tiene una empresa?
+:::
+## Rasgos característicos
+
+<div class="two-col-cards">
+<div class="feature-card"><span>01</span><b>Asunción de riesgos</b><p>La actividad empresaria se proyecta hacia un resultado futuro incierto.</p></div>
+<div class="feature-card"><span>02</span><b>Iniciativa</b><p>El empresario detecta oportunidades y organiza recursos para explotarlas.</p></div>
+<div class="feature-card"><span>03</span><b>Lectura del mercado</b><p>Debe percibir cantidad y calidad de bienes y servicios demandados.</p></div>
+<div class="feature-card"><span>04</span><b>Proceso administrativo</b><p>Planificar · organizar · dirigir · controlar.</p></div>
+<div class="feature-card full"><span>05</span><b>Innovación y competencia</b><p>Productos, procedimientos, métodos comerciales, formas de organización y de dirección.</p></div>
+</div>
+## La empresa como organización
+
+<div class="split">
+<div>
+### Organización
+
+Sistema abierto integrado por **personas** y **bienes tangibles e intangibles** que interactúan para alcanzar un objetivo común.
+
+<div class="mini-stack">
+<span>estructura</span>
+<span>autoridad</span>
+<span>procesos</span>
+<span>coordinación</span>
+<span>comunicación</span>
+</div>
+</div>
+<div class="panel-emphasis">
+### Dos dimensiones
+
+**Estructura**  
+Relaciones de jerarquía y autoridad.
+
+**Procesos**  
+Mecanismos mediante los cuales se coordinan las actividades.
+</div>
+</div>
+
+::: {.source-note}
+La clasificación detallada de estructuras se trabaja separadamente con Mintzberg.
+:::
+## La empresa como sistema
+
+<div class="flow-system">
+  <div class="flow-box input"><b>ENTRADAS</b><span>personas · capital · materias primas · información · energía</span></div>
+  <div class="flow-arrow">→</div>
+  <div class="flow-box process"><b>PROCESOS</b><span>transformación · organización · producción · prestación</span></div>
+  <div class="flow-arrow">→</div>
+  <div class="flow-box output"><b>SALIDAS</b><span>bienes · servicios · resultados · información</span></div>
+</div>
+
+<div class="center-note">La empresa funciona como una unidad compleja de elementos interdependientes orientados a un objetivo.</div>
+## Subsistemas y entorno
+
+::: {.columns}
+::: {.column width="50%"}
+### Subsistemas
+
+- **Input:** recursos que ingresan al sistema.
+- **Proceso:** transformación u organización de los recursos.
+- **Output:** resultados que vuelven al ambiente.
+
+<div class="small-callout">Las salidas constituyen la razón de ser del sistema.</div>
+:::
+
+::: {.column width="50%"}
+### Entorno
+
+**General**  
+Factores económicos, político-legales, socioculturales y educativo-tecnológicos.
+
+**Específico**  
+Clientes, competencia, concentración, tamaño, fuentes de recursos y grado de madurez.
+:::
+:::
+## Decisiones e información
+
+<div class="decision-grid">
+<div class="decision-card gold"><b>PROGRAMADAS</b><p>El conocimiento de eventos futuros permite decidir anticipadamente.</p></div>
+<div class="decision-card magenta"><b>NO PROGRAMADAS</b><p>Se trabaja con variables externas inciertas o no controlables.</p></div>
+</div>
+
+### El proceso decisorio
+
+<div class="timeline">
+  <div><span>1</span><b>Definir</b><small>el problema</small></div>
+  <div><span>2</span><b>Recopilar</b><small>información</small></div>
+  <div><span>3</span><b>Formular</b><small>alternativas</small></div>
+  <div><span>4</span><b>Evaluar</b><small>y elegir</small></div>
+</div>
+## II. Anatomía de la empresa {background-color="#0a0f17"}
+## Tres dimensiones
+
+<div class="triad">
+<div class="tri-card gold">
+<span>OBJETIVA</span>
+<h3>Hacienda</h3>
+<p>Bienes materiales e inmateriales destinados a la explotación.</p>
+</div>
+<div class="tri-card cyan">
+<span>SUBJETIVA</span>
+<h3>Personas</h3>
+<p>Propietarios, administradores, trabajadores y colaboradores.</p>
+</div>
+<div class="tri-card magenta">
+<span>DINÁMICA</span>
+<h3>Actividad</h3>
+<p>La empresa existe en funcionamiento: producir, organizar, circular, prestar.</p>
+</div>
+</div>
+
+<div class="center-note">Sin actividad organizada, la mera reunión de bienes y personas no constituye una empresa en marcha.</div>
+## La dimensión objetiva: hacienda
+
+<div class="object-grid">
+<div class="object-card">
+<h3>Elementos materiales</h3>
+<p>Inmuebles · instalaciones · maquinarias · mercaderías · dinero · bienes de uso.</p>
+</div>
+<div class="object-card">
+<h3>Elementos inmateriales</h3>
+<p>Marcas · patentes · clientela · know how · tecnología · nombre · organización.</p>
+</div>
+</div>
+
+::: {.key-idea}
+La **hacienda** expresa la dimensión patrimonial de la explotación empresaria.
+:::
+## Estática y dinámica
+
+<div class="split balanced">
+<div class="panel-emphasis">
+### Estática
+
+**Factores pasivos**  
+Tierra y capital; bienes materiales e inmateriales.
+
+**Factores activos**  
+Propietarios, administradores, trabajadores subordinados y autónomos.
+
+**Elementos de cohesión**  
+División del trabajo, sistema contable y forma jurídica.
+</div>
+<div>
+### Dinámica
+
+<div class="dynamic-pair">
+<div class="dyn-card green"><b>FISIOLOGÍA</b><span>giro normal · mercado · crecimiento · beneficios</span></div>
+<div class="dyn-card magenta"><b>PATOLOGÍA</b><span>crisis · conflictos · insolvencia · procesos concursales</span></div>
+</div>
+</div>
+</div>
+## Funciones de la empresa
+
+<div class="function-wheel">
+<div class="center-wheel">EMPRESA</div>
+<div class="wheel-item w1">Generar bienes y servicios</div>
+<div class="wheel-item w2">Reducir costos de mercado e información</div>
+<div class="wheel-item w3">Anticipar o descontar el producto</div>
+<div class="wheel-item w4">Coordinar el proceso productivo</div>
+<div class="wheel-item w5">Asumir el riesgo</div>
+<div class="wheel-item w6">Crear riqueza y empleo</div>
+</div>
+## III. El problema jurídico {background-color="#0a0f17"}
+## ¿Qué es la empresa para el Derecho?
+
+<div class="question-banner">El término “empresa” se utiliza jurídicamente de manera ambigua.</div>
+
+<div class="four-profiles">
+<div class="profile-card"><span>01</span><b>Perfil subjetivo</b><p>La empresa como sujeto funcional o centro de imputación.</p></div>
+<div class="profile-card"><span>02</span><b>Perfil patrimonial</b><p>La empresa identificada con la hacienda o patrimonio organizado.</p></div>
+<div class="profile-card"><span>03</span><b>Perfil actividad</b><p>La empresa entendida como actividad económica organizada.</p></div>
+<div class="profile-card"><span>04</span><b>Perfil institucional</b><p>La empresa como grupo social articulado en torno a un objetivo.</p></div>
+</div>
+
+<div class="center-note">Ninguno de estos perfiles, aislado, explica todo el fenómeno empresario.</div>
+## Una realidad regulada por varias ramas
+
+<div class="orbit">
+<div class="orbit-center">EMPRESA</div>
+<div class="orbit-item o1">Derecho comercial</div>
+<div class="orbit-item o2">Derecho laboral</div>
+<div class="orbit-item o3">Derecho fiscal</div>
+<div class="orbit-item o4">Derecho societario</div>
+<div class="orbit-item o5">Derecho concursal</div>
+<div class="orbit-item o6">Derecho del consumo</div>
+</div>
+
+<div class="center-note">La empresa es una realidad económica transversal sobre la que recaen múltiples regímenes jurídicos.</div>
+## IV. El Código Civil y Comercial {background-color="#0a0f17"}
+## Del comerciante al obligado contable
+
+<div class="before-after">
+<div class="era old">
+<span>ANTES</span>
+<h3>Comerciante</h3>
+<p>La categoría subjetiva tradicional del Código de Comercio.</p>
+</div>
+<div class="arrow-big">→</div>
+<div class="era new">
+<span>CCyC</span>
+<h3>Obligados contables</h3>
+<p>Personas jurídicas privadas y determinados sujetos que desarrollan actividad económica organizada.</p>
+</div>
+</div>
+
+::: {.key-idea}
+El art. 320 no define jurídicamente a la empresa, pero utiliza la noción para determinar quién debe llevar contabilidad.
+:::
+## Artículo 320 CCyC
+
+<div class="article-box">
+<p>Están obligadas a llevar contabilidad:</p>
+<ul>
+<li><b>todas las personas jurídicas privadas;</b></li>
+<li>quienes realizan una <b>actividad económica organizada;</b></li>
+<li>quienes son titulares de una <b>empresa;</b></li>
+<li>quienes son titulares de un <b>establecimiento comercial, industrial o de servicios.</b></li>
+</ul>
+</div>
+
+<div class="article-note">La norma distingue categorías: no usa “actividad económica organizada”, “empresa” y “establecimiento” como sinónimos.</div>
+## Actividad económica organizada
+
+<div class="definition-card cyan">
+### Género
+
+Reiteración de actos desarrollados bajo una **organización** que funciona como unidad independiente de su titular, con fines o efectos económicos.
+</div>
+
+<div class="concept-ladder">
+  <div class="ladder-base">ACTIVIDAD ECONÓMICA</div>
+  <div class="ladder-mid">+ ORGANIZACIÓN</div>
+  <div class="ladder-top">ACTIVIDAD ECONÓMICA ORGANIZADA</div>
+</div>
+## Empresa como especie
+
+<div class="species-diagram">
+<div class="genus">ACTIVIDAD ECONÓMICA ORGANIZADA
+  <div class="species">EMPRESA</div>
+</div>
+</div>
+
+### Elementos que intensifican la organización empresaria
+
+<div class="chip-grid">
+<span>profesionalidad</span><span>mayor complejidad</span><span>permanencia</span><span>habitualidad</span>
+<span>asunción de riesgo</span><span>trabajo ajeno</span><span>capital</span><span>propósito lucrativo</span><span>recurso al crédito</span>
+</div>
+## ¿Cómo distinguirlas?
+
+<div class="criteria-grid">
+<div class="criteria-card gold">
+<h3>Criterio cuantitativo</h3>
+<p>Capital empleado · colaboradores · volumen de facturación.</p>
+</div>
+<div class="criteria-card cyan">
+<h3>Criterio cualitativo</h3>
+<p>Peso del trabajo personal del titular frente al trabajo de colaboradores.</p>
+</div>
+</div>
+
+::: {.teacher-prompt}
+**Caso:** una diseñadora gráfica trabaja sola, factura regularmente y usa herramientas digitales. ¿Hay actividad económica organizada? ¿Hay empresa?
+:::
+## Profesiones liberales y actividad agropecuaria
+
+<div class="exception-grid">
+<div class="exception-card">
+<h3>Profesiones liberales</h3>
+<p>Quedan excluidas cuando no se encuentran ejecutadas u organizadas en forma de empresa.</p>
+</div>
+<div class="exception-card">
+<h3>Actividad agropecuaria</h3>
+<p>También puede quedar excluida, incluidas actividades conexas comprendidas en su ejercicio normal, salvo organización empresaria.</p>
+</div>
+<div class="exception-card full">
+<h3>Volumen de giro</h3>
+<p>La jurisdicción local puede eximir actividades cuya magnitud torne inconveniente someterlas a las obligaciones contables.</p>
+</div>
+</div>
+## Establecimiento: dos sentidos
+
+<div class="vs-grid">
+<div class="vs-card dim">
+<span>USO VULGAR</span>
+<h3>Lugar físico</h3>
+<p>Local · oficina · galpón · edificio.</p>
+</div>
+<div class="vs-card strong">
+<span>SENTIDO JURÍDICO</span>
+<h3>Conjunto organizado de bienes</h3>
+<p>Bienes organizados por el empresario para el ejercicio de su actividad profesional.</p>
+</div>
+</div>
+
+<div class="center-note">En este segundo sentido, el establecimiento se aproxima a la noción de hacienda.</div>
+## V. Empresa, empresario y sociedad {background-color="#0a0f17"}
+## No son sinónimos
+
+<div class="relationship">
+<div class="rel-node person"><b>EMPRESARIO</b><span>titular</span></div>
+<div class="rel-arrow">posee / organiza ↓</div>
+<div class="rel-node company"><b>EMPRESA</b><span>realidad económica</span></div>
+<div class="rel-arrow">se vale de ↓</div>
+<div class="rel-node asset"><b>HACIENDA / ESTABLECIMIENTO</b><span>conjunto organizado de bienes</span></div>
+</div>
+
+<div class="side-badge">La sociedad puede ser el empresario.</div>
+## El empresario
+
+<div class="split">
+<div>
+### Titular de la empresa
+
+Desde la administración, es quien:
+
+- dirige;
+- asume riesgos;
+- responde por los resultados;
+- piensa en el largo plazo;
+- innova;
+- procura continuidad.
+</div>
+<div class="panel-emphasis">
+### Clave jurídica
+
+El empresario es el **sujeto titular**.
+
+La empresa es la **organización económica** sobre la que ejerce titularidad y dirección.
+</div>
+</div>
+## Empresa y sociedad
+
+<div class="contrast-table">
+<div class="ct-head">EMPRESA</div><div class="ct-head">SOCIEDAD</div>
+<div>Realidad económica</div><div>Realidad jurídica</div>
+<div>Organización productiva</div><div>Sujeto de derecho</div>
+<div>No tiene personalidad propia</div><div>Personalidad diferenciada (art. 2 LGS)</div>
+<div>Puede pertenecer a una persona humana o jurídica</div><div>Puede ser titular de una o varias empresas</div>
+</div>
+
+::: {.key-idea}
+**Nunca corresponde identificar automáticamente empresa con sociedad.**
+:::
+## Empresa y forma jurídica
+
+<div class="legal-forms">
+<div class="form-card">Explotación unipersonal</div>
+<div class="form-card">Sociedad</div>
+<div class="form-card">Cooperativa</div>
+<div class="form-card">Persona jurídica estatal o mixta</div>
+</div>
+
+<div class="center-note">La empresa puede presentarse bajo distintas formas jurídicas sin perder su identidad como fenómeno económico organizado.</div>
+## VI. Conservación y funciones jurídicas {background-color="#0a0f17"}
+## ¿Por qué conservar la empresa?
+
+<div class="impact-grid">
+<div class="impact-card gold"><span>01</span><b>PRODUCE</b><p>bienes y servicios necesarios para la sociedad.</p></div>
+<div class="impact-card cyan"><span>02</span><b>EMPLEA</b><p>genera puestos de trabajo, salarios y consumo.</p></div>
+<div class="impact-card magenta"><span>03</span><b>FINANCIA</b><p>toma y otorga crédito, facilitando el funcionamiento económico.</p></div>
+</div>
+
+<div class="center-note">La continuidad empresaria trasciende el interés exclusivo del propietario.</div>
+## Manifestaciones del principio de conservación
+
+<div class="legal-grid">
+<div class="legal-card"><b>Art. 100 LGS</b><span>reactivación societaria</span></div>
+<div class="legal-card"><b>Art. 166 CCyC</b><span>reactivación de personas jurídicas privadas</span></div>
+<div class="legal-card"><b>Art. 17 LGS</b><span>superación de nulidades liquidativas por atipicidad</span></div>
+<div class="legal-card"><b>Arts. 94 y 94 bis LGS</b><span>unipersonalidad sobreviniente y continuidad</span></div>
+<div class="legal-card full"><b>Régimen concursal</b><span>reestructuración y continuidad frente a la cesación de pagos</span></div>
+</div>
+## Empresa y fraccionamiento patrimonial
+
+<div class="split balanced">
+<div class="panel-emphasis">
+### Idea
+
+El ordenamiento admite ciertas formas de separación patrimonial, pero exige una finalidad legítima y una organización empresaria real.
+</div>
+<div>
+### Proyecciones
+
+- Art. 1 LGS: actividad organizada bajo forma societaria.
+- Art. 54 LGS: posible desestimación ante fin extrasocietario.
+- Art. 161 inc. 3 LCQ: extensión de quiebra por confusión patrimonial inescindible.
+</div>
+</div>
+
+::: {.teacher-prompt}
+**Idea de discusión:** ¿puede una misma empresa “partirse” jurídicamente entre varios sujetos sin consecuencias?
+:::
+## VII. Clases de empresas {background-color="#0a0f17"}
+## Clasificación por dimensión
+
+<div class="size-scale">
+<div class="size s1">MICRO</div>
+<div class="size s2">PEQUEÑA</div>
+<div class="size s3">MEDIANA</div>
+<div class="size s4">GRANDE</div>
+</div>
+
+### Los criterios dependen del régimen jurídico
+
+<div class="criteria-lines">
+<p><b>CCyC art. 320:</b> volumen de giro como criterio posible de exención contable.</p>
+<p><b>Régimen laboral/contable:</b> número de trabajadores.</p>
+<p><b>LGS art. 299:</b> cuantía del capital para fiscalización permanente.</p>
+<p><b>LCQ arts. 288/289:</b> parámetros específicos para pequeños concursos.</p>
+</div>
+## Micro, pequeñas y medianas empresas
+
+<div class="law-banner">Leyes 24.467 y 25.300</div>
+
+<div class="mipyme-grid">
+<div class="mipyme-card"><b>FONAPYME</b><p>Aportes de capital y financiamiento de mediano y largo plazo para inversiones productivas.</p></div>
+<div class="mipyme-card"><b>SGR</b><p>Fortalecimiento del régimen de Sociedades de Garantía Recíproca.</p></div>
+<div class="mipyme-card"><b>FOGAPYME</b><p>Garantías de respaldo para facilitar el acceso al crédito.</p></div>
+<div class="mipyme-card"><b>BONIFICACIÓN DE TASAS</b><p>Reducción del costo financiero para MiPyMEs.</p></div>
+</div>
+## La empresa y el crédito
+
+<div class="credit-flow">
+<div class="credit-node">RECURSOS</div>
+<div class="credit-arrow">→</div>
+<div class="credit-node strong">EMPRESA</div>
+<div class="credit-arrow">→</div>
+<div class="credit-node">PRODUCCIÓN</div>
+<div class="credit-arrow">→</div>
+<div class="credit-node">VENTAS</div>
+<div class="credit-arrow">→</div>
+<div class="credit-node">RESULTADOS</div>
+</div>
+
+<div class="center-note">El crédito permite anticipar recursos y sostener el ciclo operativo; por eso la empresa es simultáneamente tomadora y, en muchos casos, dadora de crédito.</div>
+## Empresas beneficiosas o “B”
+
+<div class="b-grid">
+<div class="b-big">B</div>
+<div>
+### Un modelo de negocio con impacto
+
+- producen bienes o servicios para el mercado;
+- buscan un **impacto material positivo** en sociedad y ambiente;
+- incorporan estándares de transparencia;
+- amplían el modo de medir el “éxito” empresario;
+- consideran gobierno, trabajadores, ambiente y comunidad.
+</div>
+</div>
+
+::: {.key-idea}
+La categoría “B” no modifica por sí sola la naturaleza jurídica del sujeto titular: describe un modelo de gestión y propósito empresario.
+:::
+## VIII. Integración conceptual {background-color="#0a0f17"}
+## Un mapa final
+
+<div class="final-map">
+<div class="fm-top">EMPRESARIO / TITULAR</div>
+<div class="fm-arrow">↓ organiza y dirige</div>
+<div class="fm-center">EMPRESA</div>
+<div class="fm-subrow">
+  <div>PERSONAS</div>
+  <div>HACIENDA</div>
+  <div>ACTIVIDAD</div>
+</div>
+<div class="fm-arrow">↓ se proyecta jurídicamente como</div>
+<div class="fm-bottom">
+  <span>actividad económica organizada</span>
+  <span>establecimiento</span>
+  <span>sociedad titular</span>
+  <span>obligación contable</span>
+  <span>unidad a conservar</span>
+</div>
+</div>
+## Cinco afirmaciones para llevarse
+
+<div class="takeaways">
+<div><span>1</span><p>La empresa es, ante todo, una <b>organización económica</b>.</p></div>
+<div><span>2</span><p>No debe confundirse con el <b>empresario</b>, la <b>sociedad</b> ni el <b>establecimiento</b>.</p></div>
+<div><span>3</span><p>En el art. 320 CCyC, la <b>actividad económica organizada</b> funciona como género y la empresa como una forma más compleja.</p></div>
+<div><span>4</span><p>El Derecho protege su <b>continuidad</b> por su función productiva, laboral y crediticia.</p></div>
+<div><span>5</span><p>La empresa admite múltiples formas y dimensiones, desde la MiPyME hasta modelos de impacto como las empresas B.</p></div>
+</div>
+## Caso de cierre
+
+<div class="case-box">
+### “Estudio Norte”
+
+Una arquitecta trabaja desde su casa. Tiene tres colaboradores permanentes, una persona administrativa, software especializado, marca registrada, contratos con proveedores, financiamiento bancario y veinte proyectos simultáneos. La facturación se realiza a su nombre.
+</div>
+
+### Preguntas
+
+1. ¿Hay actividad económica organizada?
+2. ¿Hay empresa?
+3. ¿Quién es el empresario?
+4. ¿Existe sociedad?
+5. ¿Qué integrarían la hacienda y el establecimiento?
+6. ¿Qué relevancia tiene el art. 320 CCyC?
+## Bibliografía de base
+
+**Favier Dubois, Eduardo M.** (dir.), *Manual de Derecho Crediticio, Bursátil y Seguros*, Erreius, 2021, capítulo “La empresa y sus fuentes de financiación”.
+
+**Material de cátedra:** “La empresa”.
+
+<div class="closing">Empresa ≠ sujeto ≠ bienes ≠ local<br><b>Empresa = organización económica en funcionamiento</b></div>

@@ -100,3 +100,11 @@ Los enlaces se irán incorporando a esta página a medida que avance la cursada.
 **Ley, doctrina, jurisprudencia y casos prácticos.**
 
 El objetivo del curso es comprender las instituciones centrales del Derecho Comercial, desarrollar criterio jurídico y trabajar sobre problemas concretos mediante el análisis normativo, doctrinario y jurisprudencial.
+
+### Clase  · Elementos esenciales de los contratos
+
+<ul class="material-list">
+  <li>🎓 <a href="clases/elementos-esenciales-contrato.html" target="_blank">Elementos esenciales de los contratos - Presentación</a></li>
+  <li>📄 <a href="clases/elementos-esenciales-contrato.pdf" target="_blank">Descargar presentación en PDF</a></li>
+</ul>
+

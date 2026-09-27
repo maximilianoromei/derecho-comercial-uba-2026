@@ -1,0 +1,897 @@
+---
+title: "Agencia y concesión"
+subtitle: "Dos modelos diferentes de comercialización"
+author: "Prof. Maximiliano Lucas Romei"
+
+format:
+  revealjs:
+    slide-number: c/t
+    transition: slide
+    incremental: false
+    center: false
+    scrollable: true
+    width: 1280
+    height: 800
+    margin: 0.04
+
+slide-level: 1
+---
+
+# Agencia y concesión
+
+## Dos contratos de comercialización
+
+Vamos a trabajar sobre **dos casos**:
+
+**Caso 1**
+
+Un agente comercializa:
+
+- maquinaria agrícola de una empresa;
+- fertilizantes de otra empresa;
+- dentro de una misma zona.
+
+**Caso 2**
+
+Un concesionario oficial comercializa:
+
+- automóviles;
+- repuestos;
+- servicios asociados a una marca.
+
+# La pregunta que ordena los casos
+
+## ¿Qué hace cada empresario?
+
+No alcanza con preguntar:
+
+> ¿vende productos de otro?
+
+Tenemos que determinar:
+
+- quién compra los bienes;
+- quién los vende;
+- quién contrata con el cliente;
+- por cuenta de quién se actúa;
+- quién soporta el riesgo;
+- cómo obtiene su ganancia.
+
+# CASO 1 — El agente
+
+Imaginemos a:
+
+## Juan, agente comercial
+
+Trabaja en una determinada zona agrícola.
+
+Tiene dos contratos:
+
+**Empresa A**
+
+→ fabricante de maquinaria agrícola.
+
+**Empresa B**
+
+→ fabricante de fertilizantes.
+
+Juan desarrolla una actividad comercial independiente.
+
+# ¿Qué hace Juan?
+
+Juan:
+
+- conoce a los productores de la zona;
+- visita establecimientos;
+- presenta productos;
+- informa precios;
+- detecta necesidades;
+- acerca potenciales compradores;
+- transmite propuestas;
+- promueve operaciones.
+
+Su función principal es:
+
+> **generar negocios para los empresarios.**
+
+# Una venta de maquinaria
+
+Un productor necesita un tractor.
+
+Juan:
+
+1. visita al productor;
+2. explica las características del tractor;
+3. informa condiciones comerciales;
+4. obtiene el interés del cliente;
+5. transmite la operación al fabricante.
+
+Pero hay algo fundamental:
+
+> **Juan no compra el tractor.**
+
+# ¿Quién vende el tractor?
+
+El negocio se estructura:
+
+**FABRICANTE**
+
+↓
+
+Juan promueve la operación
+
+↓
+
+**PRODUCTOR**
+
+La compraventa se celebra entre:
+
+> **fabricante y productor.**
+
+Juan queda fuera de la compraventa como parte.
+
+# ¿El tractor pasa por el patrimonio del agente?
+
+## NO
+
+El fabricante:
+
+→ conserva el producto hasta su comercialización.
+
+El agente:
+
+→ no adquiere la propiedad.
+
+Por eso no tenemos:
+
+**fabricante → agente → cliente**
+
+Tenemos:
+
+**fabricante → cliente**
+
+con la intermediación del agente.
+
+# ¿Cómo gana dinero el agente?
+
+Supongamos:
+
+Tractor vendido:
+
+> USD 100.000
+
+Comisión pactada:
+
+> 5 %
+
+Si la operación genera derecho a comisión:
+
+**Remuneración del agente: USD 5.000**
+
+Juan no obtiene su beneficio de:
+
+> comprar barato y vender caro.
+
+Obtiene:
+
+> **una remuneración por la operación promovida.**
+
+# ¿Quién soporta el riesgo de la operación?
+
+## Art. 1479 CCyC
+
+El agente:
+
+> **no asume el riesgo de las operaciones.**
+
+Supongamos que el productor:
+
+- incumple;
+- tiene dificultades económicas;
+- no paga el precio.
+
+Como regla:
+
+> ese riesgo no convierte al agente en deudor del precio.
+
+# Una distinción fundamental
+
+## Riesgo de la operación ≠ riesgo de la propia empresa
+
+Juan sigue siendo:
+
+> **un empresario independiente.**
+
+Soporta sus propios gastos:
+
+- oficina;
+- teléfono;
+- movilidad;
+- personal;
+- organización comercial.
+
+Pero no soporta, por ser agente:
+
+> **el riesgo económico de la compraventa promovida.**
+
+# Juan también vende fertilizantes
+
+Ahora agregamos el segundo empresario.
+
+Juan es agente de:
+
+**Fabricante de maquinaria agrícola**
+
+y también de:
+
+**Fabricante de fertilizantes.**
+
+## ¿Puede hacerlo?
+
+En principio:
+
+> **SÍ.**
+
+# Varios empresarios
+
+## Art. 1481 CCyC
+
+El agente puede contratar sus servicios:
+
+> **con varios empresarios.**
+
+La agencia no exige que toda la actividad del agente esté dedicada a un único preponente.
+
+Pero existe una limitación importante.
+
+# ¿Dónde está el límite?
+
+Juan no puede aceptar operaciones:
+
+- del **mismo ramo**;
+- o en **competencia**;
+
+con las de uno de sus empresarios:
+
+> sin autorización expresa.
+
+Por eso importa distinguir los productos.
+
+# Maquinaria + fertilizantes
+
+Supongamos:
+
+**Empresa A**
+
+→ tractores y cosechadoras.
+
+**Empresa B**
+
+→ fertilizantes.
+
+Aunque los clientes puedan ser los mismos:
+
+> los productos no necesariamente pertenecen al mismo ramo ni compiten entre sí.
+
+Por ello, el agente puede aprovechar:
+
+- conocimiento territorial;
+- cartera de contactos;
+- presencia comercial;
+
+para trabajar con ambos empresarios.
+
+# Un supuesto diferente
+
+Juan es agente de:
+
+**Marca A de tractores**
+
+y quiere representar:
+
+**Marca B de tractores**
+
+en la misma zona.
+
+Ahora aparece un problema diferente.
+
+Se trata potencialmente de:
+
+> **operaciones del mismo ramo o competitivas.**
+
+Necesitará:
+
+> **autorización expresa del empresario correspondiente.**
+
+# Exclusividad: cuidado
+
+## Art. 1480 CCyC
+
+El agente tiene derecho a exclusividad respecto del:
+
+- ramo;
+- territorio;
+- grupo de personas;
+
+**expresamente determinado en el contrato.**
+
+Por eso debemos leer:
+
+> **qué exclusividad se pactó concretamente.**
+
+# La zona agrícola
+
+Supongamos que el contrato establece:
+
+> "Provincia de Córdoba, departamentos X, Y y Z."
+
+En esa zona:
+
+el agente desarrolla la actividad promocional convenida.
+
+La delimitación territorial sirve para:
+
+- organizar la red;
+- evitar superposiciones;
+- determinar operaciones;
+- delimitar la exclusividad.
+
+# ¿El agente representa al fabricante?
+
+## No necesariamente
+
+Éste es otro punto fundamental.
+
+Actuar:
+
+> **por cuenta ajena**
+
+no significa necesariamente:
+
+> **actuar en nombre ajeno.**
+
+La agencia no implica por sí sola un poder general para celebrar contratos por el empresario.
+
+# Promover no es necesariamente concluir
+
+Juan puede:
+
+- buscar al productor;
+- presentar el tractor;
+- negociar aspectos comerciales;
+- transmitir la propuesta.
+
+Y sin embargo:
+
+> la aceptación final puede corresponder al fabricante.
+
+Por eso debemos distinguir:
+
+**promoción**
+
+de
+
+**representación.**
+
+# El caso de la cobranza
+
+## Art. 1485 CCyC
+
+Supongamos que Juan dice:
+
+> "Págueme a mí los USD 100.000 del tractor."
+
+¿Puede recibir ese pago por el empresario?
+
+No por el solo hecho de ser agente.
+
+Para cobrar créditos resultantes de su gestión:
+
+> necesita **poder especial**.
+
+# CASO 2 — El concesionario
+
+Ahora cambiamos completamente el modelo.
+
+## Concesionario oficial de automóviles
+
+Tenemos:
+
+**Fabricante / importador**
+
+↓
+
+**Concesionario**
+
+↓
+
+**Cliente**
+
+El concesionario dispone de:
+
+> **su propia organización empresaria.**
+
+# ¿Qué hace el concesionario?
+
+El concesionario puede tener:
+
+- salón de ventas;
+- empleados;
+- taller;
+- stock;
+- vehículos de demostración;
+- repuestos;
+- servicio de preentrega;
+- servicio posventa.
+
+Está integrado a:
+
+> **una red organizada por el concedente.**
+
+# Pero sigue siendo empresario independiente
+
+Que exista:
+
+- marca común;
+- estándares;
+- cartelería;
+- manuales;
+- objetivos;
+- capacitación;
+
+no significa que el concesionario sea una sucursal del fabricante.
+
+El concesionario desarrolla:
+
+> **una empresa jurídicamente independiente.**
+
+# La diferencia decisiva
+
+## Art. 1502 CCyC
+
+El concesionario actúa frente a terceros:
+
+> **EN NOMBRE Y POR CUENTA PROPIA.**
+
+Ésta es probablemente la frase más importante para distinguirlo del agente.
+
+# El automóvil
+
+Supongamos:
+
+Fabricante / concedente
+
+↓
+
+vende/provee automóvil
+
+↓
+
+Concesionario
+
+↓
+
+vende automóvil
+
+↓
+
+Consumidor
+
+El concesionario:
+
+> **participa jurídicamente de la cadena de comercialización.**
+
+# Comparación con Juan
+
+## Juan — agente
+
+No compra el tractor para revenderlo.
+
+Promueve:
+
+> fabricante ↔ productor.
+
+## Concesionario
+
+Comercializa el automóvil mediante:
+
+> su propia organización empresaria.
+
+Actúa frente al comprador:
+
+> **en nombre y por cuenta propia.**
+
+# ¿Quién asume el riesgo?
+
+En la agencia:
+
+> el agente **no asume el riesgo de las operaciones promovidas**.
+
+En la concesión:
+
+> el concesionario soporta el **riesgo propio de su explotación empresaria**.
+
+Esto afecta:
+
+- stock;
+- estructura;
+- ventas;
+- rentabilidad;
+- inversiones.
+
+# El stock como ejemplo
+
+Supongamos que el concesionario tiene:
+
+> 25 automóviles en stock.
+
+Y las ventas caen abruptamente.
+
+Ese stock:
+
+- inmoviliza capital;
+- genera costos;
+- puede depreciarse;
+- puede afectar financieramente al concesionario.
+
+Ese fenómeno pertenece al:
+
+> **riesgo empresario del concesionario.**
+
+# ¿Cómo gana el concesionario?
+
+No debemos identificar concesión exclusivamente con una forma de remuneración.
+
+El art. 1507 admite:
+
+- comisión;
+- margen sobre precio;
+- cantidades fijas;
+- otras modalidades.
+
+Lo decisivo no es solamente:
+
+> **cómo cobra.**
+
+Sino:
+
+> **cómo está estructurada la relación.**
+
+# El error típico
+
+## "Cobra comisión, entonces es agente"
+
+**Incorrecto.**
+
+El concesionario también puede recibir una remuneración estructurada mediante comisión.
+
+Para calificar debemos preguntar:
+
+- ¿actúa por cuenta propia?
+- ¿dispone de organización empresaria?
+- ¿comercializa los productos?
+- ¿asume el riesgo propio de esa organización?
+- ¿cómo se relaciona con el tercero?
+
+# Los dos casos frente a frente
+
+| | Agente agrícola | Concesionario automotor |
+|---|---|---|
+| Empresa propia | Sí | Sí |
+| Independiente | Sí | Sí |
+| Promueve negocios | **Sí** | No es su nota central |
+| Cuenta | **Ajena** | **Propia** |
+| Compra para revender | No | Característicamente comercializa dentro de su propia explotación |
+| Riesgo operación | **No** | **Sí, riesgo empresario** |
+| Comisión posible | Sí | Sí |
+| Organización de venta propia | Limitada a intermediación | **Sí** |
+
+# La pregunta del millón
+
+Un productor pregunta:
+
+> "¿A quién le estoy comprando?"
+
+## Si Juan es agente
+
+La respuesta será:
+
+> **al fabricante/preponente.**
+
+Juan promovió el negocio.
+
+## En el concesionario
+
+El cliente contrata:
+
+> **con el concesionario**, que actúa en nombre y por cuenta propia.
+
+# Jurisprudencia — Agencia
+
+## Daly y Cía. c. Cadbury Schweppes
+
+La Cámara caracterizó la agencia como una relación en la cual:
+
+- existe un empresario autónomo;
+- el agente promueve negocios del principal;
+- existe estabilidad;
+- recibe una comisión;
+- no existe transmisión de propiedad de los bienes al agente;
+- el agente no queda personalmente obligado frente al tercero.
+
+Es un buen ejemplo jurisprudencial para separar:
+
+> **agencia de reventa/distribución.**
+
+# Daly — Lo importante para nuestro caso
+
+Pensemos nuevamente en Juan.
+
+**Tractor**
+
+No pasa al patrimonio de Juan.
+
+**Cliente**
+
+Contrata con el empresario.
+
+**Juan**
+
+Promueve la operación.
+
+**Remuneración**
+
+Comisión.
+
+**Riesgo de la operación**
+
+No corresponde al agente.
+
+La estructura coincide con las notas tradicionalmente atribuidas a la agencia.
+
+# Jurisprudencia — Concesión
+
+## Automóviles Saavedra S.A. c. Fiat Argentina S.A.
+
+**CSJN, 4/8/1988**
+
+Caso clásico argentino sobre:
+
+> **concesión automotriz.**
+
+La controversia surgió a raíz de la cancelación de una concesión para comercializar automotores Fiat.
+
+# Automóviles Saavedra — El conflicto
+
+La concesionaria reclamó:
+
+> daños derivados de la terminación de la concesión.
+
+Entre las cuestiones discutidas aparecieron:
+
+- estabilidad del vínculo;
+- facultades contractuales del concedente;
+- rescisión;
+- buena fe;
+- abuso del derecho;
+- riesgo empresario.
+
+# Automóviles Saavedra — Importancia
+
+El caso permite observar que la concesión es:
+
+- una relación estable;
+- basada en colaboración;
+- integrada dentro de una red;
+- pero celebrada entre **empresarios independientes**.
+
+La estabilidad:
+
+> no significaba, bajo el régimen entonces aplicable, perpetuidad del contrato.
+
+::: {.callout-note}
+El fallo es anterior al CCyC de 2015. Hoy debe leerse junto con los arts. **1502 a 1511**, especialmente las reglas actuales de duración y preaviso.
+:::
+
+# El riesgo empresario en Automóviles Saavedra
+
+El conflicto involucró también cuestiones vinculadas con:
+
+- operaciones;
+- cupos;
+- stock;
+- funcionamiento de la concesión.
+
+Esto muestra una diferencia práctica importante con el agente:
+
+> el concesionario organiza recursos propios para desarrollar la comercialización.
+
+# Otro aporte jurisprudencial
+
+La jurisprudencia argentina ha utilizado reiteradamente una distinción muy gráfica:
+
+## Agencia
+
+El agente:
+
+> **no tiene obligación de comprar**, sino de promover contratos.
+
+## Concesión
+
+El concesionario:
+
+> desarrolla la comercialización mediante su propia organización y por cuenta propia.
+
+La relación con los terceros cambia radicalmente.
+
+# Mini caso 1
+
+Juan consigue un productor interesado en un tractor.
+
+El fabricante rechaza finalmente la operación.
+
+Juan había:
+
+- visitado al cliente;
+- explicado el producto;
+- transmitido la propuesta.
+
+### ¿Juan estaba vendiendo un tractor propio?
+
+**No.**
+
+Estaba promoviendo:
+
+> **un negocio ajeno.**
+
+# Mini caso 2
+
+El concesionario tiene diez automóviles de un modelo que deja de tener demanda.
+
+No consigue compradores durante varios meses.
+
+### ¿Quién soporta inicialmente el problema comercial?
+
+> **El concesionario**, dentro del riesgo de su explotación.
+
+Esto no ocurre del mismo modo con el agente que simplemente promovía las operaciones.
+
+# Mini caso 3
+
+Juan representa:
+
+- maquinaria agrícola;
+- fertilizantes.
+
+### ¿Es incompatible?
+
+**No necesariamente.**
+
+El art. 1481 permite trabajar para varios empresarios.
+
+El problema aparece si acepta operaciones:
+
+- del mismo ramo;
+- o competitivas;
+
+sin la autorización correspondiente.
+
+# Mini caso 4
+
+Un contrato dice:
+
+> "El intermediario recibirá una comisión del 8 %."
+
+### ¿Es necesariamente agencia?
+
+**No.**
+
+La remuneración no basta para calificar.
+
+Hay que investigar:
+
+- cuenta propia o ajena;
+- riesgo;
+- relación con el tercero;
+- organización empresaria;
+- función económica.
+
+# Método rápido de examen
+
+## Pregunta 1
+
+¿Compra el producto para comercializarlo dentro de su propia explotación?
+
+→ indicio fuerte hacia **concesión/distribución**.
+
+## Pregunta 2
+
+¿Solamente promueve el negocio del empresario?
+
+→ indicio fuerte hacia **agencia**.
+
+## Pregunta 3
+
+¿Quién soporta el riesgo de la operación?
+
+→ permite confirmar la calificación.
+
+# El esquema final
+
+## AGENTE
+
+**Busca → promueve → acerca → informa**
+
+pero:
+
+> **el negocio es del empresario.**
+
+## CONCESIONARIO
+
+**Organiza → comercializa → vende → presta servicios**
+
+y:
+
+> **actúa en nombre y por cuenta propia.**
+
+# Dos frases para recordar
+
+::: {.callout-important}
+## AGENCIA
+
+**"Consigo negocios para otro."**
+
+## CONCESIÓN
+
+**"Comercializo productos de otro dentro de mi propio negocio."**
+:::
+
+# Fuentes normativas y jurisprudenciales
+
+## Normativa
+
+Código Civil y Comercial:
+
+- Agencia: arts. **1479–1501**
+- Concesión: arts. **1502–1511**
+
+Texto oficial:
+
+https://www.argentina.gob.ar/normativa/nacional/235975/texto
+
+## Jurisprudencia
+
+**CSJN, "Automóviles Saavedra S.A. c. Fiat Argentina S.A.", 4/8/1988**
+
+Referencia y texto:
+
+https://es.scribd.com/document/952830550/CONCESION-COMERCIAL-fallo-Automoviles-Saavedra
+
+**"Daly y Cía. c. Cadbury Schweppes Public Limited"**
+
+Texto:
+
+https://fallos.diprargentina.com/2008/02/daly-y-cia-c-cadbury-schweppes-public.html
+
+# Cierre
+
+## Frente a un contrato de comercialización
+
+No empezar preguntando:
+
+> "¿cómo lo llamaron las partes?"
+
+Preguntar:
+
+**¿Qué hace el intermediario?**
+
+**¿De quién es el negocio?**
+
+**¿Quién contrata con el cliente?**
+
+**¿Quién asume el riesgo?**
+
+**¿El producto entra al patrimonio del intermediario?**
+
+Esas preguntas permiten distinguir:
+
+> **AGENCIA de CONCESIÓN.**

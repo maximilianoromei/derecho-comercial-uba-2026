@@ -1,0 +1,1398 @@
+---
+title: "Contratos de agencia, concesión y suministro"
+subtitle: "Organización de la comercialización y contratos de duración"
+author: "Prof. Maximiliano Lucas Romei"
+
+format:
+  revealjs:
+    slide-number: c/t
+    transition: slide
+    incremental: false
+    center: false
+    scrollable: true
+    width: 1280
+    height: 800
+    margin: 0.04
+
+slide-level: 1
+---
+
+# Agencia, concesión y suministro
+
+## Tres contratos. Tres funciones económicas diferentes.
+
+**Ejes de la clase**
+
+- función económica;
+- actuación por cuenta propia o ajena;
+- representación;
+- distribución del riesgo;
+- exclusividad;
+- cláusulas disponibles;
+- duración;
+- preaviso;
+- extinción.
+
+# Mapa normativo
+
+| Contrato | CCyC |
+|---|---:|
+| **Suministro** | arts. 1176 a 1186 |
+| **Agencia** | arts. 1479 a 1501 |
+| **Concesión** | arts. 1502 a 1511 |
+| **Distribución** | art. 1511 |
+
+::: {.callout-note}
+Los tres pueden integrar la organización de una actividad empresaria, pero cumplen **funciones económicas diferentes**.
+:::
+
+# Primera aproximación
+
+## ¿Para qué sirve cada contrato?
+
+**Suministro**
+
+→ asegurar un aprovisionamiento periódico o continuado.
+
+**Agencia**
+
+→ promover negocios de otro empresario.
+
+**Concesión**
+
+→ organizar la comercialización mediante empresarios independientes integrados a una red.
+
+# La pregunta fundamental
+
+## ¿Quién realiza el negocio frente al tercero?
+
+Para responder debemos distinguir:
+
+- actuar **por cuenta propia**;
+- actuar **por cuenta ajena**;
+- actuar **en nombre propio**;
+- actuar **en nombre ajeno**.
+
+::: {.callout-important}
+**"Cuenta" y "nombre" no significan lo mismo.**
+:::
+
+# Actuar por cuenta ajena
+
+Significa desarrollar una actividad:
+
+> **en interés económico de otra persona.**
+
+**Ejemplo:** un agente busca clientes para una empresa.
+
+El agente:
+
+- promueve operaciones;
+- acerca clientes;
+- transmite información;
+- cobra una remuneración.
+
+Pero **no compra la mercadería para revenderla**.
+
+# Actuar por cuenta propia
+
+Quien actúa por cuenta propia:
+
+- desarrolla su propio negocio;
+- celebra operaciones en su propio interés empresarial;
+- soporta los riesgos propios de su actividad.
+
+**Ejemplo:** un concesionario adquiere automóviles del fabricante y los comercializa dentro de su establecimiento.
+
+# Cuenta no es representación
+
+::: {.callout-warning}
+**Actuar por cuenta ajena no significa necesariamente actuar en nombre ajeno.**
+:::
+
+Puede existir:
+
+- actuación por cuenta ajena **con representación**;
+- actuación por cuenta ajena **sin representación**.
+
+Esta distinción es esencial para comprender la **agencia**.
+
+# Comparación inicial
+
+| | Agencia | Concesión | Suministro |
+|---|---|---|---|
+| Función | Intermediación | Comercialización | Aprovisionamiento |
+| Cuenta | **Ajena** | **Propia** | Propia |
+| Riesgo | Empresario | Concesionario | Cada parte |
+| Independencia | Sí | Sí | Sí |
+| Duración | Sí | Sí | Sí |
+
+# I. SUMINISTRO
+
+## Arts. 1176 a 1186 CCyC
+
+**Idea central**
+
+> Prestaciones periódicas o continuadas destinadas a satisfacer una necesidad de aprovisionamiento.
+
+# Concepto de suministro
+
+## Art. 1176 CCyC
+
+Existe suministro cuando el suministrante se obliga a entregar:
+
+- bienes;
+- incluso servicios sin relación de dependencia;
+
+en forma:
+
+- **periódica**, o
+- **continuada**;
+
+y el suministrado paga un precio por cada entrega o grupo de ellas.
+
+# Función económica del suministro
+
+El suministro busca satisfacer una necesidad que se prolonga en el tiempo.
+
+No interesa solamente:
+
+> una operación individual de intercambio.
+
+Interesa:
+
+> **asegurar prestaciones sucesivas durante cierto período.**
+
+# Ejemplo de suministro
+
+Una fábrica necesita regularmente:
+
+- materia prima;
+- combustible;
+- componentes;
+- insumos;
+- determinados servicios independientes.
+
+En lugar de negociar cada operación individualmente:
+
+→ celebra un **contrato de suministro**.
+
+# Suministro y compraventa
+
+## No son exactamente lo mismo
+
+**Compraventa**
+
+→ operación de intercambio.
+
+**Suministro**
+
+→ organización de una pluralidad de prestaciones a través del tiempo.
+
+::: {.callout-note}
+Las prestaciones singulares quedan integradas en una **relación contractual duradera**.
+:::
+
+# Prestaciones periódicas y continuadas
+
+## Periódicas
+
+Se producen en momentos determinados.
+
+**Ejemplo:** 5.000 unidades el primer día hábil de cada mes.
+
+## Continuadas
+
+La prestación se mantiene durante el tiempo.
+
+Lo característico es la **continuidad de la prestación**.
+
+# Duración del suministro
+
+## Art. 1177 CCyC
+
+El Código establece **plazos máximos**.
+
+**20 años**
+
+Para frutos o productos del suelo o subsuelo, con proceso de elaboración o sin él.
+
+**10 años**
+
+En los demás casos.
+
+# Cómputo del plazo
+
+El art. 1177 dispone que el plazo máximo se computa:
+
+> **desde la primera entrega ordinaria.**
+
+::: {.callout-important}
+No necesariamente desde la fecha de celebración del contrato.
+:::
+
+# El límite temporal
+
+## ¿Pueden pactar un suministro por 30 años?
+
+**No**, si excede el máximo legal aplicable.
+
+La autonomía contractual encuentra un límite en:
+
+- **20 años**, en el supuesto especial;
+- **10 años**, en los demás casos.
+
+Nada impide pactar inicialmente un plazo menor.
+
+# Cantidad de las prestaciones
+
+## Art. 1178
+
+Las partes pueden establecer:
+
+- cantidades determinadas;
+- mínimos;
+- máximos;
+- mínimos y máximos.
+
+**¿Qué ocurre si no establecen cantidad?**
+
+# Necesidades normales
+
+Si no se convino la entidad de las prestaciones:
+
+> se consideran las **necesidades normales del suministrado al tiempo de la celebración del contrato**.
+
+La falta de una cantidad matemática exacta no impide necesariamente determinar la prestación.
+
+# Mínimos y máximos
+
+Si se establecieron:
+
+**mínimo + máximo**
+
+→ el suministrado determina la cantidad dentro de esos límites.
+
+Si solamente se fijó:
+
+**un mínimo**
+
+→ puede determinar la cantidad entre ese mínimo y sus necesidades normales al tiempo del contrato.
+
+# Variación de cantidades
+
+## Art. 1179
+
+Cuando las cantidades puedan variar, las partes deben avisarse las modificaciones en:
+
+- necesidades de recepción;
+- posibilidades de entrega.
+
+Primero se aplica:
+
+→ **lo pactado.**
+
+Si nada se pactó:
+
+→ anticipación suficiente para permitir una operación eficiente.
+
+# Plazo de las prestaciones singulares
+
+## Art. 1180
+
+El plazo legal o convencional para cada prestación se presume establecido:
+
+> **en interés de ambas partes.**
+
+**Excepto pacto en contrario.**
+
+Esto impide presumir que el término beneficia exclusivamente a una de ellas.
+
+# Precio
+
+## Art. 1181
+
+Las partes pueden establecer el precio.
+
+Si no lo hacen:
+
+→ el Código proporciona mecanismos supletorios de determinación.
+
+La ausencia de un precio expresamente fijado no significa necesariamente inexistencia del contrato.
+
+# Determinación supletoria del precio
+
+Entre los criterios legales aparecen:
+
+- precio de prestaciones similares del suministrante;
+- tiempo y lugar de la entrega;
+- valor corriente de plaza, cuando corresponda.
+
+::: {.callout-note}
+El sistema procura conservar la relación contractual mediante **criterios objetivos de determinación**.
+:::
+
+# Pacto de preferencia
+
+## Art. 1182
+
+Puede pactarse que una parte tenga preferencia para celebrar un nuevo contrato de suministro.
+
+**Límite temporal:**
+
+> **máximo 3 años.**
+
+# Preferencia: plazos
+
+A falta de estipulación contractual o usos:
+
+**30 días**
+
+→ comunicación fehaciente de las condiciones del nuevo contrato.
+
+**15 días**
+
+→ plazo para comunicar el ejercicio de la preferencia desde la recepción de la notificación.
+
+# Suministro por tiempo indeterminado
+
+## Art. 1183
+
+Si la duración no fue establecida:
+
+> cualquiera de las partes puede resolver el contrato.
+
+Pero la terminación no puede ser intempestiva.
+
+**Debe existir preaviso.**
+
+# Preaviso en suministro
+
+## Orden de aplicación
+
+**1. Lo pactado**
+
+↓
+
+**2. Los usos**
+
+↓
+
+**3. Un término razonable según las circunstancias y naturaleza del suministro**
+
+::: {.callout-important}
+El preaviso **no puede ser inferior a 60 días**.
+:::
+
+# Resolución por incumplimiento
+
+## Art. 1184
+
+No cualquier incumplimiento de una prestación singular permite resolver todo el suministro.
+
+Se requiere:
+
+> un incumplimiento de **notable importancia**.
+
+Debe poner razonablemente en duda la posibilidad de atender con exactitud los posteriores vencimientos.
+
+# Suspensión
+
+## Art. 1185
+
+Si el incumplimiento no alcanza la gravedad necesaria para resolver:
+
+→ la contraparte puede **suspender sus prestaciones** hasta que se subsane.
+
+Debe existir:
+
+- preaviso pactado; o
+- anticipación razonable según las circunstancias.
+
+# Dos preavisos diferentes
+
+::: {.callout-warning}
+No confundir los dos supuestos.
+:::
+
+**Terminación del suministro indeterminado**
+
+→ art. 1183  
+→ mínimo **60 días**.
+
+**Suspensión por incumplimiento**
+
+→ art. 1185  
+→ plazo pactado o anticipación razonable.
+
+# Suministro: mapa temporal
+
+| Supuesto | Plazo |
+|---|---:|
+| Duración máxima general | **10 años** |
+| Suelo/subsuelo | **20 años** |
+| Preferencia | máx. **3 años** |
+| Aviso preferencia | **30 días** |
+| Ejercicio preferencia | **15 días** |
+| Preaviso indeterminado | mín. **60 días** |
+
+# II. AGENCIA
+
+## Arts. 1479 a 1501 CCyC
+
+**Idea central**
+
+> Un intermediario independiente promueve negocios **por cuenta ajena**.
+
+# Concepto de agencia
+
+## Art. 1479
+
+El agente se obliga a:
+
+> **promover negocios por cuenta de otra persona**
+
+de manera:
+
+- estable;
+- continuada;
+- independiente;
+
+a cambio de una retribución.
+
+# Caracteres de la agencia
+
+El agente es un:
+
+> **intermediario independiente.**
+
+Además:
+
+- no existe relación laboral por el solo contrato;
+- no asume el riesgo de las operaciones;
+- no representa al preponente como regla;
+- el contrato debe instrumentarse por escrito.
+
+# Por cuenta ajena
+
+::: {.callout-important}
+## El agente actúa por cuenta ajena.
+:::
+
+Promueve negocios correspondientes económicamente al:
+
+- preponente;
+- empresario.
+
+No adquiere la mercadería para revenderla como negocio propio.
+
+# ¿El agente representa?
+
+## Regla: no
+
+La agencia **no supone por sí misma representación**.
+
+Por eso debemos separar:
+
+**actuación por cuenta ajena**
+
+de
+
+**actuación en nombre ajeno**.
+
+El agente puede recibir facultades representativas específicas.
+
+# Estructura de la agencia
+
+**AGENTE**
+
+↓ busca clientes
+
+↓ promueve
+
+↓ transmite propuestas
+
+**EMPRESARIO ←→ CLIENTE**
+
+El negocio promovido pertenece al empresario.
+
+El agente obtiene su **remuneración** por la actividad desarrollada.
+
+# Facultades específicas
+
+Aunque no sea representante general, el agente puede tener determinadas facultades.
+
+Por ejemplo:
+
+- recibir reclamaciones;
+- intervenir en operaciones;
+- recibir poderes especiales.
+
+Siempre debe analizarse:
+
+> **qué facultades concretas fueron otorgadas.**
+
+# Cobranza
+
+## Art. 1485
+
+Para cobrar créditos resultantes de su gestión:
+
+> necesita **poder especial**.
+
+Existen además restricciones respecto de:
+
+- quitas;
+- esperas;
+- acuerdos;
+- desistimientos;
+- avenimientos concursales.
+
+# Exclusividad
+
+## Art. 1480
+
+El agente tiene derecho a exclusividad respecto de lo:
+
+> **expresamente determinado en el contrato.**
+
+Puede referirse a:
+
+- ramo de negocios;
+- zona geográfica;
+- grupo de personas.
+
+# Varios empresarios
+
+## Art. 1481
+
+El agente puede prestar servicios a:
+
+> **varios empresarios.**
+
+Pero no puede aceptar operaciones del mismo ramo o competitivas:
+
+→ sin autorización expresa del empresario correspondiente.
+
+# Riesgo de las operaciones
+
+::: {.callout-important}
+El agente **no asume el riesgo de las operaciones**.
+:::
+
+Este elemento es fundamental para distinguirlo del concesionario.
+
+El agente recibe una remuneración por su actividad de intermediación.
+
+# Garantía de cobranza
+
+## Art. 1482
+
+El agente no puede constituirse libremente en garante de la cobranza del comprador presentado.
+
+La garantía queda limitada:
+
+> al importe de la comisión adelantada o cobrada por la operación.
+
+# Obligaciones del agente
+
+## Art. 1483
+
+Entre otras:
+
+- velar por los intereses del empresario;
+- actuar de buena fe;
+- actuar diligentemente;
+- seguir instrucciones;
+- proporcionar información;
+- informar sobre solvencia;
+- recibir reclamaciones;
+- llevar registración separada.
+
+# Obligaciones del empresario
+
+## Art. 1484
+
+Entre otras:
+
+- actuar de buena fe;
+- proporcionar información;
+- entregar documentación;
+- facilitar los elementos necesarios;
+- pagar la remuneración;
+- informar aceptación o rechazo de operaciones.
+
+# Remuneración
+
+## Art. 1486
+
+Si existe pacto:
+
+→ se aplica lo convenido.
+
+Si no existe:
+
+> **comisión variable**
+
+según:
+
+- volumen;
+- valor de los actos o contratos;
+- usos y prácticas del lugar.
+
+# Gastos del agente
+
+## Art. 1490
+
+Regla:
+
+> el agente no tiene derecho al reembolso de los gastos derivados del ejercicio de su actividad.
+
+Pero:
+
+::: {.callout-note}
+La norma admite **pacto en contrario**.
+:::
+
+Es un buen ejemplo de una regla disponible.
+
+# Duración de la agencia
+
+## Art. 1491
+
+Salvo pacto en contrario:
+
+> la agencia se entiende celebrada por **tiempo indeterminado**.
+
+Las partes pueden pactar un plazo determinado.
+
+# Continuación después del vencimiento
+
+Si existía un contrato por tiempo determinado y las partes continúan la relación después de su vencimiento:
+
+> se transforma en contrato **por tiempo indeterminado**.
+
+Esto tiene consecuencias directas sobre el régimen de **preaviso**.
+
+# Preaviso en agencia
+
+## Art. 1492
+
+En los contratos por tiempo indeterminado:
+
+> cualquiera de las partes puede poner fin al contrato mediante preaviso.
+
+**Regla:**
+
+> **1 mes por cada año de vigencia del contrato.**
+
+# Ejemplos de preaviso
+
+Agencia de:
+
+**1 año**
+
+→ 1 mes.
+
+**3 años**
+
+→ 3 meses.
+
+**7 años**
+
+→ 7 meses.
+
+**12 años**
+
+→ 12 meses.
+
+# Una precisión importante
+
+El art. 1492 establece:
+
+> **un mes por cada año de vigencia.**
+
+No establece expresamente una regla según la cual:
+
+> toda fracción de año deba computarse automáticamente como un año completo.
+
+::: {.callout-warning}
+Conviene no agregar una regla de redondeo que el artículo no contiene.
+:::
+
+# Final del preaviso
+
+## Art. 1492
+
+El final del plazo debe coincidir con:
+
+> **el final del mes calendario en el que opera.**
+
+Las partes pueden establecer:
+
+> **plazos de preaviso superiores a los legales.**
+
+# Agencia transformada en indeterminada
+
+Supongamos:
+
+- contrato inicial: 4 años;
+- vence;
+- las partes continúan trabajando.
+
+El contrato pasa a ser:
+
+> **por tiempo indeterminado.**
+
+Para calcular el preaviso se computa también la duración determinada anterior.
+
+# Omisión del preaviso
+
+## Art. 1493
+
+Si una parte termina inmediatamente una agencia indeterminada:
+
+la otra tiene derecho a:
+
+> **indemnización por las ganancias dejadas de percibir durante el período de preaviso omitido.**
+
+# Función de la indemnización
+
+La indemnización del art. 1493 procura compensar:
+
+> el período de preaviso que debió respetarse.
+
+La referencia legal son las:
+
+**ganancias dejadas de percibir durante ese período.**
+
+No debe confundirse con otras indemnizaciones.
+
+# Resolución de la agencia
+
+## Art. 1494
+
+Entre las causales legales aparecen:
+
+- muerte o incapacidad del agente;
+- disolución de la persona jurídica;
+- quiebra firme;
+- vencimiento del plazo;
+- incumplimiento grave o reiterado;
+- disminución significativa del volumen de negocios.
+
+# Incumplimiento grave o reiterado
+
+Debe tener entidad suficiente para poner razonablemente en duda:
+
+- la posibilidad;
+- o la intención;
+
+del incumplidor de atender correctamente sus obligaciones sucesivas.
+
+::: {.callout-note}
+No cualquier incumplimiento permite extinguir inmediatamente una relación estable.
+:::
+
+# Disminución del volumen de negocios
+
+## Arts. 1494 y 1495
+
+Existe una regla especial si el agente disminuye significativamente su volumen de negocios durante:
+
+> **dos ejercicios consecutivos.**
+
+En ese supuesto:
+
+> el preaviso **no debe exceder de 2 meses**.
+
+# Regla especial de los dos meses
+
+La regla se aplica:
+
+> cualquiera haya sido la duración del contrato.
+
+Incluso cuando se trate de:
+
+> **contrato a plazo determinado.**
+
+::: {.callout-important}
+Es una regla especial frente al régimen general del art. 1492.
+:::
+
+# Compensación por clientela
+
+## Art. 1497
+
+Extinguido el contrato, el agente puede tener derecho a compensación cuando:
+
+- incrementó significativamente el giro;
+- su actividad puede continuar produciendo ventajas sustanciales al empresario.
+
+# Límite de la compensación
+
+A falta de acuerdo:
+
+→ la compensación es fijada judicialmente.
+
+No puede exceder:
+
+> **un año de remuneraciones netas de gastos.**
+
+Se considera el promedio de los últimos cinco años o de todo el contrato si duró menos.
+
+# Preaviso y clientela
+
+## Son institutos diferentes
+
+**Preaviso**
+
+→ evita la terminación intempestiva.
+
+**Compensación por clientela**
+
+→ reconoce el valor económico que la actividad del agente puede seguir generando al empresario.
+
+Pueden concurrir si se cumplen sus respectivos presupuestos.
+
+# No competencia posterior
+
+## Art. 1499
+
+Puede pactarse una cláusula de no competencia posterior a la terminación.
+
+Debe:
+
+- referirse al ramo correspondiente;
+- limitarse territorialmente o respecto de un grupo de personas;
+- vincularse con la exclusividad existente.
+
+**Duración máxima: 1 año.**
+
+# Subagencia
+
+## Art. 1500
+
+Regla:
+
+> el agente no puede instituir subagentes.
+
+Excepción:
+
+> **consentimiento expreso del empresario.**
+
+El agente responde solidariamente por la actuación del subagente.
+
+# III. CONCESIÓN
+
+## Arts. 1502 a 1511 CCyC
+
+**Idea central**
+
+> El concesionario comercializa mediante su propia empresa y actúa **en nombre y por cuenta propia**.
+
+# Concepto de concesión
+
+## Art. 1502
+
+El concesionario:
+
+- dispone de su organización empresaria;
+- comercializa mercaderías provistas por el concedente;
+- puede prestar servicios;
+- puede proveer repuestos y accesorios;
+
+según lo convenido.
+
+# La frase fundamental
+
+::: {.callout-important}
+## El concesionario actúa en nombre y por cuenta propia frente a terceros.
+:::
+
+Esta regla permite distinguir claramente:
+
+**agencia** de **concesión**.
+
+# Agencia vs. concesión
+
+## Agencia
+
+El agente:
+
+> promueve negocios **por cuenta ajena**.
+
+## Concesión
+
+El concesionario:
+
+> comercializa **en nombre y por cuenta propia**.
+
+La diferencia repercute directamente sobre el **riesgo empresarial**.
+
+# Estructura económica
+
+## Agencia
+
+**AGENTE**
+
+↓ promueve
+
+**EMPRESARIO ←→ CLIENTE**
+
+## Concesión
+
+**CONCEDENTE**
+
+↓
+
+**CONCESIONARIO**
+
+↓
+
+**CLIENTE**
+
+# Riesgo empresarial
+
+El concesionario desarrolla:
+
+> **su propia empresa.**
+
+Soporta normalmente los riesgos derivados de:
+
+- estructura;
+- personal;
+- instalaciones;
+- stock;
+- comercialización;
+- gastos de explotación.
+
+# Exclusividad
+
+## Art. 1503
+
+Regla:
+
+> la concesión es exclusiva para ambas partes en el territorio o zona de influencia determinada.
+
+Pero la norma comienza:
+
+> **"Excepto pacto en contrario".**
+
+Por lo tanto, existe autonomía contractual.
+
+# Configuración de la exclusividad
+
+Las partes pueden organizar:
+
+- exclusividad total;
+- determinados territorios;
+- reservas;
+- canales especiales;
+- determinadas ventas directas;
+- categorías de clientes.
+
+::: {.callout-note}
+La exclusividad legal funciona como regla en ausencia de un pacto diferente.
+:::
+
+# Mercaderías comprendidas
+
+## Art. 1503
+
+Salvo pacto en contrario, la concesión comprende:
+
+- todas las mercaderías fabricadas o provistas por el concedente;
+- incluso los nuevos modelos.
+
+Es otra regla expresamente modificable por contrato.
+
+# Obligaciones del concedente
+
+## Art. 1504
+
+Entre otras:
+
+- proveer mercadería suficiente;
+- respetar territorio;
+- suministrar información técnica;
+- capacitar cuando corresponda;
+- proveer repuestos durante período razonable;
+- permitir uso de marcas y signos.
+
+# Objetivos de venta
+
+El contrato puede establecer:
+
+> **objetivos de venta.**
+
+Estos integran la organización de la red comercial.
+
+Su determinación y comunicación deben ajustarse:
+
+→ a lo convenido entre las partes.
+
+# Ventas directas
+
+Aunque exista exclusividad:
+
+pueden pactarse reservas para el concedente respecto de:
+
+- cierto tipo de ventas directas;
+- modalidades especiales de venta.
+
+::: {.callout-important}
+Exclusividad no significa necesariamente prohibición absoluta de toda venta directa.
+:::
+
+# Obligaciones del concesionario
+
+## Art. 1505
+
+Entre otras:
+
+- comprar exclusivamente al concedente;
+- mantener existencias;
+- respetar límites geográficos;
+- disponer de locales e instalaciones;
+- prestar servicios convenidos;
+- adoptar sistemas comerciales;
+- capacitar personal.
+
+# Stock
+
+El concesionario debe mantener:
+
+> la existencia convenida.
+
+Si no existe convenio:
+
+→ una cantidad suficiente para asegurar:
+
+- continuidad de los negocios;
+- atención del público consumidor.
+
+# Retribución
+
+## Art. 1507
+
+Puede consistir en:
+
+- comisión;
+- margen sobre precio;
+- cantidades fijas;
+- otras modalidades convenidas.
+
+::: {.callout-warning}
+La utilización de una **comisión** no convierte automáticamente la concesión en agencia.
+:::
+
+Debe analizarse la relación completa.
+
+# Gastos
+
+## Regla
+
+Los gastos de explotación corresponden:
+
+> **al concesionario.**
+
+## Excepción
+
+Los gastos necesarios para servicios de:
+
+- preentrega;
+- garantía gratuita;
+
+corresponden al concedente conforme al régimen contractual.
+
+# Duración de la concesión
+
+## Art. 1506
+
+Regla:
+
+> **el plazo no puede ser inferior a 4 años.**
+
+A diferencia del suministro, acá estamos ante:
+
+**un plazo mínimo.**
+
+# Pacto por un plazo menor
+
+Ejemplo:
+
+> concesión por 18 meses.
+
+El art. 1506 establece:
+
+> se entiende convenida por **4 años**.
+
+El plazo contractual menor no desplaza el mínimo legal.
+
+# Concesión indeterminada
+
+¿Y si las partes dicen:
+
+> "el contrato es por tiempo indeterminado"?
+
+El Código dispone que se entiende convenido inicialmente por:
+
+> **4 años.**
+
+La concesión tiene así una estabilidad temporal mínima.
+
+# Excepción por instalaciones
+
+Si el concedente proporciona al concesionario:
+
+> el uso de las instalaciones principales suficientes para su desempeño,
+
+puede establecerse un plazo menor.
+
+Pero:
+
+> **nunca inferior a 2 años.**
+
+# Lógica económica del plazo
+
+Si el concesionario debe realizar su propia inversión estructural:
+
+→ necesita mayor estabilidad.
+
+Si el concedente proporciona las instalaciones principales:
+
+→ el Código admite reducir el plazo mínimo.
+
+::: {.callout-note}
+El plazo legal se vincula con la estructura económica de la concesión.
+:::
+
+# Continuación después del vencimiento
+
+Si vence:
+
+- el plazo contractual;
+- o el plazo legal;
+
+y las partes continúan la relación sin especificar previamente un nuevo plazo:
+
+> el contrato se transforma en **tiempo indeterminado**.
+
+# Concesión por tiempo indeterminado
+
+## Art. 1508
+
+Cuando la concesión es por tiempo indeterminado:
+
+se aplican:
+
+- **art. 1492**;
+- **art. 1493**.
+
+Es decir:
+
+→ el régimen de preaviso de la **agencia**.
+
+# Preaviso en concesión
+
+Por remisión al art. 1492:
+
+> **1 mes por cada año de vigencia.**
+
+Además:
+
+> el final del plazo debe coincidir con el final del mes calendario.
+
+Las partes pueden establecer plazos superiores.
+
+# Omisión del preaviso
+
+Por remisión al art. 1493:
+
+la omisión genera derecho a:
+
+> indemnización por las ganancias dejadas de percibir durante el período de preaviso omitido.
+
+# Recompra de stock
+
+## Art. 1508
+
+Al finalizar el período de preaviso:
+
+el concedente debe readquirir:
+
+- productos nuevos;
+- repuestos nuevos;
+
+que el concesionario:
+
+- haya adquirido conforme al contrato;
+- mantenga en existencia.
+
+# Precio de recompra
+
+La recompra se realiza:
+
+> a los precios ordinarios de venta a los concesionarios al tiempo del pago.
+
+La regla evita que la terminación deje al concesionario con:
+
+→ stock contractual nuevo sin salida dentro de la red.
+
+# Resolución de la concesión
+
+## Art. 1509
+
+El Código remite al:
+
+> **art. 1494**
+
+del régimen de agencia.
+
+Por lo tanto:
+
+varias causales de resolución son comunes a ambos contratos.
+
+# Subconcesión
+
+## Art. 1510
+
+Regla:
+
+el concesionario no puede designar:
+
+- subconcesionarios;
+- agentes;
+- intermediarios de venta.
+
+Pero:
+
+> **puede pactarse lo contrario.**
+
+# Cesión del contrato
+
+También como regla:
+
+> ninguna de las partes puede ceder el contrato.
+
+Pero nuevamente:
+
+> **excepto pacto en contrario.**
+
+Es otro ejemplo del espacio reconocido a la autonomía privada.
+
+# Distribución
+
+## Art. 1511
+
+Las normas sobre concesión se aplican también:
+
+> a los contratos de **distribución**, en cuanto sean pertinentes.
+
+El artículo extiende también el régimen a determinados contratos de comercialización.
+
+# IV. CLÁUSULAS Y AUTONOMÍA
+
+## ¿Qué pueden modificar las partes?
+
+No todas las reglas legales tienen el mismo carácter.
+
+Debemos distinguir entre:
+
+- reglas supletorias;
+- reglas expresamente disponibles;
+- límites legales.
+
+# "Excepto pacto en contrario"
+
+Cuando el Código utiliza esta expresión:
+
+> reconoce expresamente un espacio de autonomía contractual.
+
+**Ejemplos**
+
+- gastos del agente;
+- exclusividad en concesión;
+- subconcesión;
+- cesión.
+
+# Materias negociables
+
+Según el contrato pueden regularse:
+
+- territorio;
+- productos;
+- clientes;
+- exclusividad;
+- objetivos;
+- cantidades;
+- stock;
+- remuneración;
+- márgenes;
+- gastos;
+- publicidad;
+- capacitación;
+- canales de comercialización.
+
+# Límites a la autonomía
+
+Existen reglas que fijan límites legales.
+
+**Suministro**
+
+→ plazo máximo.
+
+**Concesión**
+
+→ plazo mínimo.
+
+**Agencia**
+
+→ límite temporal de la no competencia posterior.
+
+::: {.callout-warning}
+Autonomía de la voluntad no equivale a disponibilidad absoluta del régimen legal.
+:::
+
+# V. LOS PLAZOS
+
+## No todos cumplen la misma función
+
+Puede tratarse de:
+
+- plazo máximo;
+- plazo mínimo;
+- preaviso;
+- plazo de comunicación;
+- plazo para ejercer un derecho;
+- límite temporal de una cláusula.
+
+**Primero hay que identificar la función. Después memorizar el número.**
+
+# Gran cuadro de plazos
+
+| Contrato | Institución | Plazo |
+|---|---|---:|
+| Suministro | duración general | máx. **10 años** |
+| Suministro | suelo/subsuelo | máx. **20 años** |
+| Suministro | preferencia | máx. **3 años** |
+| Suministro | preaviso indeterminado | mín. **60 días** |
+| Agencia | preaviso indeterminado | **1 mes/año** |
+| Agencia | no competencia posterior | máx. **1 año** |
+| Agencia | disminución 2 ejercicios | máx. **2 meses** |
+| Concesión | duración ordinaria | mín. **4 años** |
+| Concesión | instalaciones | mín. **2 años** |
+| Concesión indeterminada | preaviso | art. **1492** |
+
+# Gran cuadro conceptual
+
+| | Suministro | Agencia | Concesión |
+|---|---|---|---|
+| Función | Aprovisionar | Intermediar | Comercializar |
+| Cuenta | Propia | **Ajena** | **Propia** |
+| Nombre | Propio | Sin representación como regla | **Propio** |
+| Riesgo | Propio | Empresario | Concesionario |
+| Estabilidad | Sí | Sí | Sí |
+| Independencia | Sí | Sí | Sí |
+

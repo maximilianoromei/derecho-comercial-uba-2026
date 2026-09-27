@@ -1,0 +1,1420 @@
+---
+title: "Contrato de factoraje"
+subtitle: "Financiación, liquidez y transferencia del riesgo"
+author: "Prof. Maximiliano Lucas Romei"
+
+format:
+  revealjs:
+    slide-number: c/t
+    transition: slide
+    incremental: false
+    center: false
+    scrollable: true
+    width: 1280
+    height: 800
+    margin: 0.04
+
+slide-level: 1
+---
+
+# Contrato de factoraje
+
+## Un problema frecuente en la actividad empresaria
+
+Vamos a trabajar sobre una sola empresa:
+
+> **ElectroHogar S.A.**
+
+ElectroHogar vende:
+
+- televisores;
+- heladeras;
+- lavarropas;
+- pequeños electrodomésticos.
+
+Y permite que muchos clientes:
+
+> **paguen sus compras en cuotas.**
+
+# La venta financiada
+
+Un consumidor compra una heladera.
+
+**Precio financiado**
+
+> $1.200.000
+
+**Forma de pago**
+
+> 12 cuotas de $100.000.
+
+ElectroHogar:
+
+- entrega hoy la heladera;
+- pero no recibe hoy $1.200.000.
+
+A cambio obtiene:
+
+> **un crédito contra el consumidor.**
+
+# Multipliquemos el ejemplo
+
+ElectroHogar no tiene un solo cliente.
+
+Tiene:
+
+> **cientos o miles de compradores financiados.**
+
+Como consecuencia de sus ventas acumula:
+
+- cuotas a 30 días;
+- cuotas a 60 días;
+- cuotas a 90 días;
+- cuotas a 6 meses;
+- cuotas a 12 meses.
+
+# La cartera de créditos
+
+Supongamos que la suma de todos los créditos pendientes es:
+
+> **$100 millones.**
+
+ElectroHogar tiene entonces:
+
+**Créditos por ventas**
+
+> $100 millones.
+
+Pero eso NO significa que tenga:
+
+**Dinero disponible**
+
+> $100 millones.
+
+# Crédito no es dinero disponible
+
+Este es el primer concepto fundamental.
+
+ElectroHogar posee un:
+
+> **ACTIVO**
+
+Tiene derecho a cobrar $100 millones.
+
+Pero esos créditos vencerán:
+
+> **en el futuro.**
+
+Por lo tanto:
+
+> tener créditos no equivale a tener liquidez.
+
+# El problema de ElectroHogar
+
+Mientras espera cobrar las cuotas debe:
+
+- pagar salarios;
+- pagar alquileres;
+- comprar nuevas heladeras;
+- pagar proveedores;
+- afrontar impuestos;
+- financiar nuevas ventas.
+
+Tiene patrimonio.
+
+Tiene créditos.
+
+Pero puede faltarle:
+
+> **CAJA.**
+
+# La paradoja
+
+Una empresa puede:
+
+> **vender mucho**
+
+y simultáneamente:
+
+> **tener problemas de liquidez.**
+
+¿Por qué?
+
+Porque:
+
+> **VENTA ≠ COBRO**
+
+Cuanto más financia a sus clientes:
+
+→ más créditos genera;
+
+pero:
+
+→ más debe esperar para disponer del dinero.
+
+# Primera alternativa
+
+## Esperar
+
+ElectroHogar conserva su cartera.
+
+Tiene:
+
+> $100 millones de valor nominal.
+
+A medida que vencen las cuotas:
+
+**consumidores**
+
+↓
+
+pagan
+
+↓
+
+**ElectroHogar**
+
+Si todos cumplen:
+
+> ElectroHogar irá recibiendo los $100 millones.
+
+# Pero ElectroHogar no quiere esperar
+
+Necesita dinero:
+
+> **HOY.**
+
+Entonces aparece una empresa:
+
+> **FACTOR S.A.**
+
+Factor propone:
+
+> "Puedo adquirir tus créditos contra los consumidores."
+
+Aquí aparece:
+
+> **el contrato de factoraje.**
+
+# Concepto legal
+
+## Art. 1421 CCyC
+
+Existe contrato de factoraje cuando una parte:
+
+> **el factor**
+
+se obliga a adquirir por un precio en dinero determinado o determinable:
+
+> créditos originados en el giro comercial de la otra parte.
+
+Esta última es:
+
+> **el factoreado.**
+
+# Las personas involucradas
+
+## FACTOR
+
+Factor S.A.
+
+Adquiere los créditos.
+
+## FACTOREADO
+
+ElectroHogar S.A.
+
+Transmite los créditos.
+
+## DEUDORES CEDIDOS
+
+Los consumidores.
+
+Son quienes deben pagar las cuotas.
+
+# ¿Qué se transmite?
+
+ElectroHogar no transmite:
+
+- electrodomésticos;
+- su negocio;
+- su establecimiento;
+- acciones de la sociedad.
+
+Transmite:
+
+> **DERECHOS DE CRÉDITO.**
+
+El factor pasa a ser titular de los créditos adquiridos.
+
+# El objeto del factoraje
+
+El art. 1423 permite incluir:
+
+- créditos existentes;
+- créditos futuros;
+- todos los créditos;
+- parte de ellos;
+
+siempre que:
+
+> puedan ser determinados.
+
+Esto permite trabajar con:
+
+> **carteras de créditos.**
+
+# Nuestra cartera
+
+ElectroHogar tiene:
+
+**1.000 consumidores**
+
+que deben en conjunto:
+
+> **$100 millones.**
+
+Esos créditos vencerán durante:
+
+> los próximos meses.
+
+Factor S.A. analiza la cartera.
+
+# Primera pregunta
+
+## ¿Factor debe pagar $100 millones hoy?
+
+No necesariamente.
+
+Y acá aparece la primera dificultad económica del contrato.
+
+ElectroHogar tiene derecho a cobrar:
+
+> **$100 millones en el futuro.**
+
+Pero está pidiendo:
+
+> **dinero disponible hoy.**
+
+No son económicamente exactamente lo mismo.
+
+# El precio de cobrar antes
+
+Supongamos:
+
+ElectroHogar espera:
+
+> recibe $100 millones a medida que vencen los créditos.
+
+Factor ofrece:
+
+> **$90 millones hoy.**
+
+¿Por qué ElectroHogar aceptaría menos?
+
+Porque obtiene una ventaja:
+
+> **NO TIENE QUE ESPERAR.**
+
+# ¿Por qué Factor paga menos?
+
+Factor entrega:
+
+> **$90 millones HOY.**
+
+Y deberá esperar:
+
+- 30 días;
+- 60 días;
+- 90 días;
+- varios meses;
+
+para cobrar los créditos adquiridos.
+
+Por anticipar hoy dinero que recuperará en el futuro:
+
+> existe un **COSTO FINANCIERO**.
+
+# Primera idea económica
+
+::: {.callout-important}
+## EL TIEMPO TIENE UN COSTO
+:::
+
+ElectroHogar transforma:
+
+> **$100 millones a cobrar en el futuro**
+
+en:
+
+> **$90 millones disponibles hoy.**
+
+La diferencia remunera, entre otros conceptos:
+
+> **el anticipo temporal del dinero.**
+
+# Ahora ponemos el nombre técnico
+
+La operación consiste económicamente en determinar:
+
+> cuánto vale **HOY**
+
+una suma que se cobrará:
+
+> en el **FUTURO**.
+
+Para hacerlo puede utilizarse una:
+
+> **TASA DE DESCUENTO.**
+
+# ¿Qué significa "descontar"?
+
+Para esta clase alcanza con comprender:
+
+**Valor futuro**
+
+> $100 millones
+
+↓
+
+**se anticipa el cobro**
+
+↓
+
+**Valor actual**
+
+> $90 millones
+
+No necesitamos realizar matemática financiera.
+
+La idea jurídica y económica es:
+
+> **el factor paga hoy por créditos que cobrará después.**
+
+# No confundir
+
+::: {.callout-warning}
+Los $10 millones de diferencia NO significan necesariamente:
+
+**"el factor calcula que $10 millones no se van a cobrar".**
+:::
+
+Todavía no estamos hablando necesariamente de incobrabilidad.
+
+Estamos explicando:
+
+> **el costo financiero de anticipar el dinero.**
+
+# Factoraje con financiación
+
+## Art. 1421 CCyC
+
+El Código permite que el factor:
+
+> **anticipe fondos sobre los créditos adquiridos.**
+
+En nuestro ejemplo:
+
+**Cartera nominal**
+
+> $100 millones
+
+**Fondos anticipados**
+
+> $90 millones.
+
+ElectroHogar obtiene:
+
+> **financiación inmediata.**
+
+# ¿Para qué sirve?
+
+Antes del factoraje:
+
+**ElectroHogar**
+
+→ tenía $100 millones de créditos futuros.
+
+Después:
+
+**ElectroHogar**
+
+→ obtiene dinero disponible hoy.
+
+Puede utilizarlo para:
+
+- reponer stock;
+- pagar proveedores;
+- continuar vendiendo;
+- financiar su actividad.
+
+# Hasta acá no hablamos de riesgo
+
+Tenemos:
+
+> **TIEMPO**
+
+ElectroHogar quiere cobrar antes.
+
+Y tenemos:
+
+> **PRECIO**
+
+Factor cobra económicamente por anticipar fondos.
+
+Ahora agregamos una pregunta distinta:
+
+> ¿qué ocurre si los consumidores NO PAGAN?
+
+# Introducción al riesgo
+
+Supongamos que uno de los consumidores debe:
+
+> $500.000.
+
+El crédito:
+
+- existe;
+- es válido;
+- la heladera fue entregada;
+- llegó el vencimiento.
+
+Pero el consumidor:
+
+> perdió sus ingresos y resulta insolvente.
+
+# ¿Qué significa riesgo?
+
+::: {.callout-important}
+## RIESGO
+
+Es la posibilidad de que ocurra un hecho futuro e incierto que produzca una pérdida económica.
+:::
+
+En nuestro caso:
+
+> existe la posibilidad de que algunos consumidores no puedan pagar sus créditos.
+
+Ese es un:
+
+> **RIESGO DE CRÉDITO O DE INSOLVENCIA.**
+
+# El riesgo antes del factoraje
+
+Si ElectroHogar conserva la cartera:
+
+**Consumidor paga**
+
+→ ElectroHogar cobra.
+
+**Consumidor no paga por insolvencia**
+
+→ ElectroHogar soporta la pérdida.
+
+Por lo tanto:
+
+> **el riesgo de insolvencia pertenece originalmente a ElectroHogar.**
+
+# ¿Qué ocurre al transmitir los créditos?
+
+Depende de:
+
+> **cómo se haya distribuido contractualmente el riesgo.**
+
+Aquí aparece la distinción entre:
+
+**FACTORING CON RECURSO**
+
+y
+
+**FACTORING SIN RECURSO.**
+
+# Factoraje CON recurso
+
+Supongamos:
+
+Factor entrega:
+
+> **$90 millones hoy.**
+
+Pero se establece que si determinados créditos no son pagados:
+
+> Factor puede recurrir contra ElectroHogar en los términos pactados.
+
+ElectroHogar obtuvo:
+
+> **LIQUIDEZ**
+
+pero conserva:
+
+> **RIESGO DE INCOBRABILIDAD**, conforme al contrato.
+
+# ¿Qué significa "recurso"?
+
+En términos sencillos:
+
+> si el deudor no paga, el factor puede volver contra el factoreado en los supuestos pactados.
+
+Es decir:
+
+**Consumidor no paga**
+
+↓
+
+**Factor**
+
+↓
+
+puede reclamar a
+
+↓
+
+**ElectroHogar**
+
+# Función económica
+
+## Con recurso
+
+El factor presta fundamentalmente una función de:
+
+> **FINANCIACIÓN.**
+
+Transforma:
+
+**créditos futuros**
+
+en:
+
+**dinero presente.**
+
+Pero no necesariamente libera al factoreado del:
+
+> **riesgo de insolvencia.**
+
+# Ahora cambiemos el contrato
+
+Factor hace una propuesta diferente:
+
+> "Adquiero los créditos y, además, asumo el riesgo de que los consumidores resulten insolventes."
+
+Tenemos:
+
+> **FACTORING SIN RECURSO.**
+
+Ahora la distribución económica cambia.
+
+# Factoraje SIN recurso
+
+ElectroHogar transmite la cartera.
+
+Factor anticipa fondos.
+
+Si un consumidor:
+
+- debe válidamente;
+- pero resulta insolvente;
+
+el riesgo asumido por Factor:
+
+> **no vuelve sobre ElectroHogar por la sola insolvencia del deudor.**
+
+# ¿Qué adquirió ahora el factor?
+
+Factor no solamente:
+
+> adelantó dinero.
+
+También asumió:
+
+> **un riesgo que antes soportaba ElectroHogar.**
+
+Por eso debemos separar dos servicios económicos:
+
+**1. FINANCIACIÓN**
+
+**2. ASUNCIÓN DEL RIESGO**
+
+# Dos conceptos diferentes
+
+## TIEMPO
+
+Factor entrega dinero hoy:
+
+> y cobra después.
+
+Eso tiene:
+
+> **costo financiero.**
+
+## RIESGO
+
+Factor puede entregar dinero:
+
+> y después no cobrar todo.
+
+Eso tiene:
+
+> **costo por asunción del riesgo.**
+
+# ¿Por qué sin recurso puede costar más?
+
+Volvamos a la misma cartera:
+
+> **$100 millones nominales.**
+
+Supongamos:
+
+**Con recurso**
+
+Factor ofrece:
+
+> **$90 millones hoy.**
+
+**Sin recurso**
+
+Factor ofrece:
+
+> **$85 millones hoy.**
+
+¿Por qué podría pagar menos?
+
+# El precio del riesgo
+
+En el segundo caso Factor:
+
+**1. adelanta dinero**
+
+y además:
+
+**2. asume el riesgo de insolvencia.**
+
+Por eso puede exigir una contraprestación económica mayor.
+
+::: {.callout-important}
+## Quien asume un riesgo exige un precio por asumirlo.
+:::
+
+# El ejemplo completo
+
+| Situación | ElectroHogar recibe | ¿Quién espera? | ¿Quién soporta insolvencia? |
+|---|---:|---|---|
+| Conserva cartera | $100 M futuros | ElectroHogar | ElectroHogar |
+| Factoraje con recurso | $90 M hoy* | Factor | ElectroHogar* |
+| Factoraje sin recurso | $85 M hoy* | Factor | **Factor*** |
+
+\* Ejemplo didáctico. Depende del contrato.
+
+# ¿Qué explica cada diferencia?
+
+## De $100 a $90
+
+Fundamentalmente mostramos:
+
+> **el costo de recibir hoy dinero que se cobraría en el futuro.**
+
+## De $90 a $85
+
+Agregamos:
+
+> **el precio de transferir el riesgo de insolvencia.**
+
+Así podemos separar:
+
+**TIEMPO** de **RIESGO**.
+
+# Los números son ejemplos
+
+::: {.callout-warning}
+El CCyC NO establece que el factor deba pagar:
+
+- 90 %;
+- 85 %;
+- ni ningún porcentaje determinado.
+:::
+
+Los números sirven exclusivamente para:
+
+> **comprender la lógica económica del contrato.**
+
+# ¿De qué depende el precio real?
+
+Entre otros factores:
+
+- plazo de los créditos;
+- cantidad de cuotas;
+- solvencia de los deudores;
+- morosidad histórica;
+- garantías;
+- existencia de recurso;
+- servicios contratados;
+- costos de cobranza;
+- condiciones del mercado.
+
+# La calidad de la cartera
+
+Comparemos dos carteras.
+
+## Cartera A
+
+1.000 clientes.
+
+Históricamente:
+
+> 98 % paga regularmente.
+
+## Cartera B
+
+1.000 clientes.
+
+Históricamente:
+
+> existe alta morosidad e incobrabilidad.
+
+¿Tienen necesariamente el mismo valor?
+
+> **NO.**
+
+# ¿Por qué?
+
+Especialmente si el factor asume el riesgo:
+
+una cartera con mayor probabilidad de incobrabilidad:
+
+> representa mayor riesgo.
+
+Mayor riesgo puede traducirse en:
+
+- menor precio;
+- mayor costo;
+- mayores garantías;
+- menor anticipo.
+
+Por eso:
+
+> **la calidad del crédito repercute sobre su valor.**
+
+# Una distinción jurídica esencial
+
+Ahora tenemos que hacer una precisión.
+
+**"Sin recurso"**
+
+NO significa:
+
+> **"ElectroHogar nunca responde por nada".**
+
+Tenemos que distinguir dos situaciones completamente diferentes.
+
+# Situación A — Insolvencia
+
+ElectroHogar:
+
+- vendió la heladera;
+- la entregó correctamente;
+- el crédito existe;
+- el consumidor debe.
+
+Pero:
+
+> el consumidor resulta insolvente.
+
+Eso es:
+
+> **RIESGO DE CRÉDITO.**
+
+En un factoraje sin recurso respecto de ese riesgo:
+
+> lo soporta el **factor**.
+
+# Situación B — Problema del negocio
+
+Ahora supongamos que el consumidor dice:
+
+> "No pago porque nunca me entregaron la heladera."
+
+O:
+
+> "La compraventa fue resuelta."
+
+O existe:
+
+> una defensa derivada de la operación que originó el crédito.
+
+Esto es distinto.
+
+# No es insolvencia
+
+El problema no consiste en:
+
+> "debo, pero no puedo pagar".
+
+El consumidor sostiene:
+
+> **"no debo pagar este crédito en los términos pretendidos".**
+
+Entonces aparece un problema relacionado con:
+
+> **la existencia, legitimidad o eficacia del crédito.**
+
+# Art. 1427 CCyC
+
+Aun cuando el factoraje sea:
+
+> **sin garantía o recurso**
+
+el factoreado responde por la pérdida de valor de los derechos adquiridos:
+
+> cuando la imposibilidad de cobro deriva del acto jurídico que dio origen al crédito.
+
+Por eso:
+
+> **SIN RECURSO ≠ AUSENCIA ABSOLUTA DE RESPONSABILIDAD.**
+
+# Dos riesgos que no deben confundirse
+
+| Situación | Problema |
+|---|---|
+| Cliente debe pero es insolvente | **Riesgo de crédito** |
+| Crédito no existe o es cuestionable por su origen | **Riesgo jurídico/comercial del crédito** |
+
+En el factoraje sin recurso:
+
+> puede transferirse el primero.
+
+Pero eso no elimina automáticamente:
+
+> la responsabilidad contemplada en el art. 1427.
+
+# Ejemplo muy sencillo
+
+## Caso 1
+
+Cliente debe $500.000.
+
+Recibió correctamente la heladera.
+
+Pierde su trabajo y resulta insolvente.
+
+**Sin recurso por insolvencia**
+
+→ riesgo del **factor**.
+
+## Caso 2
+
+Cliente debe aparentemente $500.000.
+
+Pero ElectroHogar nunca entregó la heladera.
+
+→ problema imputable al **negocio originario**.
+
+# Ahora podemos entender el precio
+
+El factor analiza:
+
+## ¿Cuánto dinero debe anticipar?
+
+→ **financiación**
+
+## ¿Durante cuánto tiempo?
+
+→ **costo temporal**
+
+## ¿Qué posibilidad existe de no cobrar?
+
+→ **riesgo**
+
+## ¿Quién soportará ese riesgo?
+
+→ **con o sin recurso**
+
+Todo esto influye:
+
+> **en el precio del factoraje.**
+
+# Factoraje y política comercial
+
+ElectroHogar descubre algo importante.
+
+Puede vender:
+
+> en 6, 12 o 18 cuotas
+
+sin necesariamente tener que esperar todo ese tiempo para recuperar liquidez.
+
+Puede:
+
+> vender financiado al consumidor
+
+y luego:
+
+> convertir esos créditos en dinero mediante factoring.
+
+# Efecto sobre las ventas
+
+Esto puede permitir a ElectroHogar:
+
+- ofrecer mayores plazos;
+- aumentar ventas;
+- competir mediante financiación;
+- recuperar antes capital de trabajo.
+
+El factoring puede ser entonces:
+
+> **una herramienta financiera y comercial.**
+
+# Pero la financiación tiene un costo
+
+Supongamos:
+
+## Venta contado
+
+> $800.000 hoy.
+
+## Venta financiada
+
+> $1.000.000 dentro de varios meses.
+
+No podemos concluir inmediatamente:
+
+> "La segunda alternativa es mejor porque el precio nominal es mayor."
+
+¿Por qué?
+
+Porque:
+
+> **el tiempo tiene un costo.**
+
+# Si después factoriza
+
+Supongamos que el crédito de:
+
+> $1.000.000
+
+es adquirido por el factor y ElectroHogar recibe:
+
+> $820.000 hoy.
+
+Entonces la empresa debe comparar:
+
+- precio de contado;
+- precio financiado;
+- costo del factoring;
+- riesgo;
+- margen comercial.
+
+La decisión comercial cambia.
+
+# Factoraje y negociación
+
+Por eso ElectroHogar puede incorporar el costo financiero:
+
+> **al formar sus precios y condiciones de venta.**
+
+Si ofrece:
+
+- 3 cuotas;
+- 6 cuotas;
+- 12 cuotas;
+
+cada alternativa implica:
+
+> diferentes tiempos de recuperación del dinero.
+
+Y eventualmente:
+
+> diferentes costos de financiación.
+
+# Servicios del factor
+
+## Art. 1422 CCyC
+
+Además de adquirir créditos, el factor puede prestar servicios de:
+
+- administración;
+- gestión de cobranza;
+- asistencia administrativa;
+- asistencia técnica;
+- asistencia comercial.
+
+Por eso el precio puede contener:
+
+> algo más que costo financiero y riesgo.
+
+# Tres componentes fáciles de recordar
+
+El costo económico del factoring puede reflejar:
+
+## 1. TIEMPO
+
+Anticipar dinero.
+
+## 2. RIESGO
+
+Asumir posible insolvencia.
+
+## 3. SERVICIOS
+
+Administrar y cobrar la cartera.
+
+::: {.callout-important}
+No todo descuento responde necesariamente a la misma causa.
+:::
+
+# El aforo
+
+## Art. 1426 CCyC
+
+Ahora sí podemos agregar otro concepto.
+
+El factor puede retener inicialmente:
+
+> **un porcentaje del crédito adquirido.**
+
+A esa retención se la denomina:
+
+> **AFORO.**
+
+# Ejemplo de aforo
+
+Cartera:
+
+> $100 millones.
+
+Aforo:
+
+> 10 %.
+
+El factor retiene inicialmente:
+
+> $10 millones.
+
+El aforo funciona como:
+
+> **un margen de protección frente a contingencias**, conforme a lo pactado.
+
+No debe confundirse automáticamente con:
+
+> el precio del financiamiento.
+
+# Garantías
+
+## Art. 1426 CCyC
+
+El contrato puede incluir:
+
+- garantías reales;
+- garantías personales;
+- aforos.
+
+Por lo tanto, la distribución del riesgo:
+
+> depende de la estructura contractual concreta.
+
+No basta con mirar una sola cláusula.
+
+# Notificación al consumidor
+
+## Art. 1428 CCyC
+
+La transmisión de los derechos debe notificarse al:
+
+> **deudor cedido.**
+
+La notificación puede realizarse por cualquier medio que:
+
+> evidencie razonablemente su recepción.
+
+# ¿Por qué importa?
+
+Antes:
+
+**CONSUMIDOR**
+
+↓
+
+paga a
+
+↓
+
+**ELECTROHOGAR**
+
+Después de la cesión y su notificación:
+
+**CONSUMIDOR**
+
+↓
+
+debe pagar conforme a la cesión a
+
+↓
+
+**FACTOR**
+
+La titularidad del crédito cambió.
+
+# Documento contractual
+
+## Art. 1425 CCyC
+
+El documento contractual:
+
+> constituye título suficiente de transmisión de los derechos cedidos.
+
+Estamos ante:
+
+> **adquisición de créditos.**
+
+No simplemente ante:
+
+> un préstamo informal garantizado con facturas.
+
+# Caso práctico 1
+
+ElectroHogar tiene:
+
+> $100 millones a cobrar durante los próximos 12 meses.
+
+Factor ofrece:
+
+> $90 millones hoy.
+
+La operación es con recurso.
+
+### ¿Por qué ElectroHogar acepta menos?
+
+Porque:
+
+> obtiene hoy dinero que de otro modo recibiría en el futuro.
+
+Existe:
+
+> **un costo financiero por el anticipo.**
+
+# Caso práctico 2
+
+Factor ofrece:
+
+**Con recurso**
+
+> $90 millones.
+
+**Sin recurso**
+
+> $85 millones.
+
+### ¿Qué explica la diferencia adicional?
+
+En el segundo caso:
+
+> Factor asume además el riesgo de insolvencia convenido.
+
+Por eso:
+
+> **la transferencia del riesgo también tiene un precio.**
+
+# Caso práctico 3
+
+El factoring es sin recurso.
+
+Un consumidor:
+
+- recibió correctamente el televisor;
+- debe diez cuotas;
+- resulta insolvente.
+
+### ¿Quién soporta el riesgo?
+
+Si el contrato transfirió ese riesgo:
+
+> **Factor.**
+
+Eso es precisamente:
+
+> riesgo de crédito.
+
+# Caso práctico 4
+
+El factoring es sin recurso.
+
+Un consumidor no paga porque:
+
+> ElectroHogar nunca entregó el televisor.
+
+### ¿Quién soporta el problema?
+
+No estamos simplemente ante:
+
+> insolvencia.
+
+Existe un problema en:
+
+> **el acto jurídico que originó el crédito.**
+
+Debe aplicarse:
+
+> **art. 1427 CCyC.**
+
+# Caso práctico 5
+
+Factor descubre que la cartera tiene:
+
+- alta mora;
+- numerosos incumplimientos;
+- deudores de baja solvencia.
+
+### ¿Qué puede ocurrir?
+
+Puede:
+
+- ofrecer un precio menor;
+- exigir garantías;
+- aumentar el aforo;
+- rechazar determinados créditos;
+- limitar el riesgo que asume.
+
+Porque:
+
+> **el riesgo repercute económicamente en la negociación.**
+
+# El contrato como distribución de riesgos
+
+El factoraje no debe estudiarse solamente como:
+
+> **una cesión de créditos.**
+
+También organiza:
+
+- financiación;
+- liquidez;
+- administración;
+- cobranza;
+- garantías;
+- distribución del riesgo.
+
+Las partes deciden:
+
+> **quién soportará determinadas contingencias.**
+
+# Método de análisis
+
+Ante un contrato de factoraje preguntar:
+
+**1. ¿Qué créditos se transmiten?**
+
+**2. ¿Existe financiación?**
+
+**3. ¿Cuánto se anticipa?**
+
+**4. ¿Cuándo vencerían los créditos?**
+
+**5. ¿Existe recurso?**
+
+**6. ¿Quién soporta la insolvencia?**
+
+**7. ¿Existen garantías o aforo?**
+
+**8. ¿Qué servicios presta el factor?**
+
+# El cuadro que hay que recordar
+
+| | Con recurso | Sin recurso |
+|---|---|---|
+| Adquisición de créditos | Sí | Sí |
+| Puede existir anticipo | Sí | Sí |
+| Liquidez inmediata | Sí, si hay anticipo | Sí, si hay anticipo |
+| Costo por tiempo | **Sí** | **Sí** |
+| Riesgo insolvencia | Factoreado, según contrato | **Factor, según contrato** |
+| Costo por riesgo asumido | Menor | **Mayor** |
+| Art. 1427 | Aplica | **También aplica** |
+
+# Tres frases para recordar
+
+::: {.callout-important}
+## FINANCIACIÓN
+
+**"Cobro hoy lo que iba a cobrar después."**
+
+## CON RECURSO
+
+**"Obtengo liquidez, pero conservo el riesgo pactado."**
+
+## SIN RECURSO
+
+**"Obtengo liquidez y transfiero al factor el riesgo de insolvencia asumido."**
+:::
+
+# Una cuarta frase indispensable
+
+::: {.callout-warning}
+## SIN RECURSO NO SIGNIFICA
+
+**"El factoreado deja de responder por cualquier problema del crédito."**
+:::
+
+Hay que distinguir:
+
+> **insolvencia del deudor**
+
+de
+
+> **defectos vinculados al negocio que originó el crédito.**
+
+# Para llevarse de la clase
+
+1. ElectroHogar puede tener muchos créditos y poca liquidez.
+
+2. El factoring permite transformar créditos comerciales en dinero.
+
+3. Si existe anticipo, cumple una función de **financiación**.
+
+4. Recibir dinero antes tiene un **costo financiero**.
+
+5. El riesgo es la posibilidad de una pérdida futura e incierta.
+
+6. En el factoring **sin recurso**, el factor puede asumir el riesgo de insolvencia.
+
+7. Asumir mayor riesgo repercute sobre el **precio**.
+
+8. Sin recurso no elimina la responsabilidad prevista por el **art. 1427**.
+
+# Fuente normativa
+
+## Código Civil y Comercial de la Nación
+
+**Contrato de factoraje**
+
+Arts. **1421 a 1428**.
+
+Especialmente:
+
+- art. 1421 — definición y financiación;
+- art. 1422 — servicios;
+- art. 1423 — créditos comprendidos;
+- art. 1425 — transmisión;
+- art. 1426 — garantías y aforo;
+- art. 1427 — imposibilidad de cobro;
+- art. 1428 — notificación.
+
+Texto oficial:
+
+https://www.argentina.gob.ar/normativa/nacional/235975/texto
+
+# Cierre
+
+## El factoraje permite negociar tres cosas diferentes
+
+**TIEMPO**
+
+> ¿Quiero cobrar hoy o esperar?
+
+**RIESGO**
+
+> ¿Quién soportará la insolvencia?
+
+**PRECIO**
+
+> ¿Cuánto vale para mí obtener liquidez y/o transferir ese riesgo?
+
+Comprender esas tres variables permite entender:
+
+> **la lógica jurídica y económica del contrato de factoraje.**

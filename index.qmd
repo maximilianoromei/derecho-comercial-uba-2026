@@ -111,8 +111,8 @@ El objetivo del curso es comprender las instituciones centrales del Derecho Come
 ### Clase  · Agencia y concesión
 
 <ul class="material-list">
-  <li>🎓 <a href="clases/agencia-concesion.html" target="_blank">Agencia y concesión - Presentación</a></li>
-  <li>📄 <a href="clases/agencia-concesion.pdf" target="_blank">Descargar presentación en PDF</a></li>
+  <li>🎓 <a href="clases/agencia-y-concesion.html" target="_blank">Agencia y concesión - Presentación</a></li>
+  <li>📄 <a href="clases/agencia-y-concesion.pdf" target="_blank">Descargar presentación en PDF</a></li>
 </ul>
 
 ### Clase  · Factoraje
